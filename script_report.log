@@ -1,0 +1,90 @@
+2024-08-06 11:18:27,179 - INFO - Script started
+2024-08-06 11:19:31,024 - INFO - Got info of 33/63 hotels
+2024-08-06 11:19:31,024 - INFO - Total processed records for 'Hammamet(2024-08-10->2024-08-11)'from https://www.traveltodo.com/: 33
+2024-08-06 11:19:39,467 - INFO - Scraping Tunisie Booking for hotels in Hammamet (2024-08-10 --> 2024-08-11)
+2024-08-06 11:19:39,467 - INFO - Scraping Tunisie Booking for hotels in Hammamet (2024-08-10 --> 2024-08-11)
+2024-08-06 11:20:00,656 - INFO - Got info of 10/10 hotels
+2024-08-06 11:20:00,656 - INFO - Total processed records for 'Hammamet(2024-08-10->2024-08-11)'from https://tn.tunisiebooking.com/: 10
+2024-08-06 11:20:08,391 - INFO - Scraping Liberta for hotels in 'Hammamet' (2024-08-10 --> 2024-08-11)
+2024-08-06 11:21:05,656 - INFO - Got info of 65/65 hotels
+2024-08-06 11:21:05,656 - INFO - Total processed records for 'Hammamet(2024-08-10->2024-08-11)'from https://www.libertavoyages.com/: 65
+2024-08-06 11:22:28,161 - INFO - Got info of 48/54 hotels
+2024-08-06 11:22:28,161 - INFO - Total processed records for 'Tunis(2024-08-10->2024-08-11)'from https://www.traveltodo.com/: 48
+2024-08-06 11:22:35,780 - INFO - Scraping Tunisie Booking for hotels in Tunis (2024-08-10 --> 2024-08-11)
+2024-08-06 11:22:35,780 - INFO - Scraping Tunisie Booking for hotels in Tunis (2024-08-10 --> 2024-08-11)
+2024-08-06 11:22:57,656 - INFO - Got info of 20/20 hotels
+2024-08-06 11:22:57,656 - INFO - Total processed records for 'Tunis(2024-08-10->2024-08-11)'from https://tn.tunisiebooking.com/: 20
+2024-08-06 11:23:05,330 - INFO - Scraping Liberta for hotels in 'Tunis' (2024-08-10 --> 2024-08-11)
+2024-08-06 11:24:15,128 - INFO - Got info of 43/43 hotels
+2024-08-06 11:24:15,128 - INFO - Total processed records for 'Tunis(2024-08-10->2024-08-11)'from https://www.libertavoyages.com/: 43
+2024-08-06 11:24:44,733 - INFO - Got info of 7/22 hotels
+2024-08-06 11:24:44,733 - INFO - Total processed records for 'Monastir(2024-08-10->2024-08-11)'from https://www.traveltodo.com/: 7
+2024-08-06 11:24:52,522 - INFO - Scraping Tunisie Booking for hotels in Monastir (2024-08-10 --> 2024-08-11)
+2024-08-06 11:24:52,522 - INFO - Scraping Tunisie Booking for hotels in Monastir (2024-08-10 --> 2024-08-11)
+2024-08-06 11:25:09,580 - INFO - Got info of 3/3 hotels
+2024-08-06 11:25:09,580 - INFO - Total processed records for 'Monastir(2024-08-10->2024-08-11)'from https://tn.tunisiebooking.com/: 3
+2024-08-06 11:25:17,437 - INFO - Scraping Liberta for hotels in 'Monastir' (2024-08-10 --> 2024-08-11)
+2024-08-06 11:25:58,080 - INFO - Got info of 24/24 hotels
+2024-08-06 11:25:58,080 - INFO - Total processed records for 'Monastir(2024-08-10->2024-08-11)'from https://www.libertavoyages.com/: 24
+2024-08-06 11:26:46,873 - INFO - Got info of 21/40 hotels
+2024-08-06 11:26:46,873 - INFO - Total processed records for 'Sousse(2024-08-10->2024-08-11)'from https://www.traveltodo.com/: 21
+2024-08-06 11:26:54,755 - INFO - Scraping Tunisie Booking for hotels in Sousse (2024-08-10 --> 2024-08-11)
+2024-08-06 11:26:54,755 - INFO - Scraping Tunisie Booking for hotels in Sousse (2024-08-10 --> 2024-08-11)
+2024-08-06 11:27:15,190 - INFO - Got info of 11/11 hotels
+2024-08-06 11:27:15,190 - INFO - Total processed records for 'Sousse(2024-08-10->2024-08-11)'from https://tn.tunisiebooking.com/: 11
+2024-08-06 11:27:23,030 - INFO - Scraping Liberta for hotels in 'Sousse' (2024-08-10 --> 2024-08-11)
+2024-08-06 11:28:03,444 - INFO - Got info of 36/36 hotels
+2024-08-06 11:28:03,444 - INFO - Total processed records for 'Sousse(2024-08-10->2024-08-11)'from https://www.libertavoyages.com/: 36
+2024-08-06 11:28:55,834 - INFO - Got info of 30/51 hotels
+2024-08-06 11:28:55,835 - INFO - Total processed records for 'Djerba(2024-08-10->2024-08-11)'from https://www.traveltodo.com/: 30
+2024-08-06 11:29:04,039 - INFO - Scraping Tunisie Booking for hotels in Djerba (2024-08-10 --> 2024-08-11)
+2024-08-06 11:29:04,040 - INFO - Scraping Tunisie Booking for hotels in Djerba (2024-08-10 --> 2024-08-11)
+2024-08-06 11:29:34,113 - INFO - Got info of 15/15 hotels
+2024-08-06 11:29:34,114 - INFO - Total processed records for 'Djerba(2024-08-10->2024-08-11)'from https://tn.tunisiebooking.com/: 15
+2024-08-06 11:29:43,417 - INFO - Scraping Liberta for hotels in 'Djerba' (2024-08-10 --> 2024-08-11)
+2024-08-06 11:30:25,922 - INFO - Got info of 52/52 hotels
+2024-08-06 11:30:25,922 - INFO - Total processed records for 'Djerba(2024-08-10->2024-08-11)'from https://www.libertavoyages.com/: 52
+2024-08-06 11:30:48,526 - INFO - Got info of 3/13 hotels
+2024-08-06 11:30:48,526 - INFO - Total processed records for 'Mahdia(2024-08-10->2024-08-11)'from https://www.traveltodo.com/: 3
+2024-08-06 11:30:56,640 - INFO - Scraping Tunisie Booking for hotels in Mahdia (2024-08-10 --> 2024-08-11)
+2024-08-06 11:30:56,640 - INFO - Scraping Tunisie Booking for hotels in Mahdia (2024-08-10 --> 2024-08-11)
+2024-08-06 11:31:13,088 - INFO - Got info of 0/0 hotels
+2024-08-06 11:31:13,089 - INFO - Total processed records for 'Mahdia(2024-08-10->2024-08-11)'from https://tn.tunisiebooking.com/: 0
+2024-08-06 11:31:20,658 - INFO - Scraping Tunisie Booking for hotels in Mahdia (2024-08-10 --> 2024-08-11)
+2024-08-06 11:31:20,658 - INFO - Scraping Tunisie Booking for hotels in Mahdia (2024-08-10 --> 2024-08-11)
+2024-08-06 11:31:36,299 - INFO - Got info of 0/0 hotels
+2024-08-06 11:31:36,299 - INFO - Total processed records for 'Mahdia(2024-08-10->2024-08-11)'from https://tn.tunisiebooking.com/: 0
+2024-08-06 11:31:45,181 - INFO - Scraping Tunisie Booking for hotels in Mahdia (2024-08-10 --> 2024-08-11)
+2024-08-06 11:31:45,181 - INFO - Scraping Tunisie Booking for hotels in Mahdia (2024-08-10 --> 2024-08-11)
+2024-08-06 11:32:02,780 - INFO - Got info of 0/0 hotels
+2024-08-06 11:32:02,780 - INFO - Total processed records for 'Mahdia(2024-08-10->2024-08-11)'from https://tn.tunisiebooking.com/: 0
+2024-08-06 11:32:10,932 - INFO - Scraping Tunisie Booking for hotels in Mahdia (2024-08-10 --> 2024-08-11)
+2024-08-06 11:32:10,932 - INFO - Scraping Tunisie Booking for hotels in Mahdia (2024-08-10 --> 2024-08-11)
+2024-08-06 11:32:27,485 - INFO - Got info of 0/0 hotels
+2024-08-06 11:32:27,485 - INFO - Total processed records for 'Mahdia(2024-08-10->2024-08-11)'from https://tn.tunisiebooking.com/: 0
+2024-08-06 11:32:35,465 - INFO - Scraping Liberta for hotels in 'Mahdia' (2024-08-10 --> 2024-08-11)
+2024-08-06 11:32:57,978 - INFO - Got info of 0/0 hotels
+2024-08-06 11:32:57,978 - INFO - Total processed records for 'Mahdia(2024-08-10->2024-08-11)'from https://www.libertavoyages.com/: 0
+2024-08-06 11:33:05,611 - INFO - Scraping Liberta for hotels in 'Mahdia' (2024-08-10 --> 2024-08-11)
+2024-08-06 11:33:43,931 - INFO - Got info of 14/14 hotels
+2024-08-06 11:33:43,931 - INFO - Total processed records for 'Mahdia(2024-08-10->2024-08-11)'from https://www.libertavoyages.com/: 14
+2024-08-06 11:34:14,553 - INFO - Got info of 5/7 hotels
+2024-08-06 11:34:14,553 - INFO - Total processed records for 'Tozeur(2024-08-10->2024-08-11)'from https://www.traveltodo.com/: 5
+2024-08-06 11:34:22,875 - INFO - Scraping Tunisie Booking for hotels in Tozeur (2024-08-10 --> 2024-08-11)
+2024-08-06 11:34:22,875 - INFO - Scraping Tunisie Booking for hotels in Tozeur (2024-08-10 --> 2024-08-11)
+2024-08-06 11:34:41,821 - INFO - Got info of 5/5 hotels
+2024-08-06 11:34:41,821 - INFO - Total processed records for 'Tozeur(2024-08-10->2024-08-11)'from https://tn.tunisiebooking.com/: 5
+2024-08-06 11:34:49,833 - INFO - Scraping Liberta for hotels in 'Tozeur' (2024-08-10 --> 2024-08-11)
+2024-08-06 11:35:33,081 - INFO - Got info of 10/10 hotels
+2024-08-06 11:35:33,081 - INFO - Total processed records for 'Tozeur(2024-08-10->2024-08-11)'from https://www.libertavoyages.com/: 10
+2024-08-06 11:36:02,358 - INFO - Got info of 5/5 hotels
+2024-08-06 11:36:02,358 - INFO - Total processed records for 'Tabarka(2024-08-10->2024-08-11)'from https://www.traveltodo.com/: 5
+2024-08-06 11:36:10,074 - INFO - Scraping Tunisie Booking for hotels in Tabarka (2024-08-10 --> 2024-08-11)
+2024-08-06 11:36:10,074 - INFO - Scraping Tunisie Booking for hotels in Tabarka (2024-08-10 --> 2024-08-11)
+2024-08-06 11:36:27,522 - INFO - Got info of 4/4 hotels
+2024-08-06 11:36:27,522 - INFO - Total processed records for 'Tabarka(2024-08-10->2024-08-11)'from https://tn.tunisiebooking.com/: 4
+2024-08-06 11:36:35,356 - INFO - Scraping Liberta for hotels in 'Tabarka' (2024-08-10 --> 2024-08-11)
+2024-08-06 11:37:17,915 - INFO - Got info of 7/7 hotels
+2024-08-06 11:37:17,915 - INFO - Total processed records for 'Tabarka(2024-08-10->2024-08-11)'from https://www.libertavoyages.com/: 7
+2024-08-06 11:37:20,743 - INFO - Script completed
+2024-08-06 11:37:20,743 - INFO - Total execution time: 1133.56 seconds
