@@ -34,7 +34,8 @@ def select_destination(driver, search_form, destination):
 
         # Click on the first suggestion in the destination list
         driver.execute_script("arguments[0].click();", destination_list[0])
-    except (NoSuchElementException, ElementNotInteractableException):
+
+    except (NoSuchElementException, ElementNotInteractableException, IndexError):
         print("Error selecting destination!")
 
 

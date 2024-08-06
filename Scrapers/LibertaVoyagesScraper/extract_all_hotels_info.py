@@ -9,7 +9,9 @@ def extract_all_hotels_info(driver):
     hotels_list = extract_hotels_list(driver)
 
     for hotel in hotels_list:
-        hotels_infos.append(get_hotel_info(hotel))
+        data = get_hotel_info(hotel)
+        if len(data) > 0:
+            hotels_infos.append(data)
 
     print(f">> Got info of {len(hotels_infos)}/{len(hotels_list)} hotels.")
     logging.info(f"Got info of {len(hotels_infos)}/{len(hotels_list)} hotels")

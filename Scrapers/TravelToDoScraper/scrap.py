@@ -32,7 +32,10 @@ def scrap(destination, check_in, check_out):
     driver.get(URL)
 
     print("Searching...")
-    search(driver, destination, check_in, check_out)
+    if not search(driver, destination, check_in, check_out):
+        driver.close()
+        driver = init_firefox_driver()
+        driver.get(URL)
 
     print("Scrapping...")
     results = extract_all_hotels_info(driver)
