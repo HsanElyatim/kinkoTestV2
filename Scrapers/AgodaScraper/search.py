@@ -1,8 +1,12 @@
 from datetime import datetime
+
 from selenium.common import NoSuchElementException, TimeoutException, ElementClickInterceptedException
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+
+from Scrapers.dictionary import month_names_en_fr
+
 
 def select_destination(driver, search_form, destination):
     """
@@ -54,7 +58,7 @@ def select_month(driver, range_picker, month):
         left_calendar = range_picker.find_element(By.CLASS_NAME, "DayPicker-Month")
 
         # Loop until the current month matches the target month
-        while left_calendar.find_element(By.CLASS_NAME, "DayPicker-Caption").text != month:
+        while left_calendar.find_element(By.CLASS_NAME, "DayPicker-Caption").text != month.lower():
             target_month_number = datetime.strptime(month, "%B %Y").month
             current_month_number = datetime.strptime(
                 left_calendar.find_element(By.CLASS_NAME, "DayPicker-Caption").text, "%B %Y").month
@@ -116,8 +120,8 @@ def select_checkin_checkout(driver, search_form, check_in, check_out):
         Returns:
             None
     """
-    check_in_month, check_in_day = check_in.strftime("%B") + " " + str(check_in.year), str(check_in.day)
-    check_out_month, check_out_day = check_out.strftime("%B") + " " + str(check_out.year), str(check_out.day)
+    check_in_month, check_in_day = month_names_en_fr.get(check_in.strftime("%B")) + " " + str(check_in.year), str(check_in.day)
+    check_out_month, check_out_day = month_names_en_fr.get(check_out.strftime("%B")) + " " + str(check_out.year), str(check_out.day)
 
     try:
         # Locate the range picker within the search form

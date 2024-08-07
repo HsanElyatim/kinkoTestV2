@@ -10,6 +10,7 @@ from sqlalchemy import create_engine
 from Scrapers.TravelToDoScraper.scrap import scrap as traveltodo_scrap
 from Scrapers.LibertaVoyagesScraper.scrap import scrap as libertavoyages_scrap
 from Scrapers.TunisieBookingScraper.scrap import scrap as tunisiebooking_scrap
+from Scrapers.AgodaScraper.scrap import scrap as agoda_scrap
 
 # Configure logging
 logging.basicConfig(filename='script_report.log', level=logging.INFO,
@@ -28,10 +29,13 @@ SCRAPING_SOURCES = os.getenv('SCRAPING_SOURCES').split(',')
 TARGET_DESTINATIONS = os.getenv('TARGET_DESTINATIONS').split(',')
 
 # Script Params
-skip_days_for_test = 4
+skip_days_for_test = 0
 check_in = datetime.today().date() + timedelta(days=skip_days_for_test)
 nb_nights = 1
 check_out = datetime.today().date() + timedelta(days=nb_nights) + timedelta(days=skip_days_for_test)
+
+destination = TARGET_DESTINATIONS[0]
+agoda_scrap(destination, check_in, check_out)
 
 
 def transform_load(data, table_name):

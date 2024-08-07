@@ -88,3 +88,58 @@
 2024-08-06 11:37:17,915 - INFO - Total processed records for 'Tabarka(2024-08-10->2024-08-11)'from https://www.libertavoyages.com/: 7
 2024-08-06 11:37:20,743 - INFO - Script completed
 2024-08-06 11:37:20,743 - INFO - Total execution time: 1133.56 seconds
+2024-08-07 11:23:22,787 - INFO - Scraping Agoda for hotels in 'Hammamet' (2024-08-11 --> 2024-08-12)
+2024-08-07 11:32:25,742 - INFO - Scraping Agoda for hotels in 'Hammamet' (2024-08-11 --> 2024-08-12)
+2024-08-07 11:37:47,501 - INFO - Scraping Agoda for hotels in 'Hammamet' (2024-08-11 --> 2024-08-12)
+2024-08-07 11:59:52,320 - INFO - Scraping Agoda for hotels in 'Hammamet' (2024-08-11 --> 2024-08-12)
+2024-08-07 12:01:28,559 - INFO - Scraping Agoda for hotels in 'Hammamet' (2024-08-11 --> 2024-08-12)
+2024-08-07 12:03:26,523 - INFO - Scraping Agoda for hotels in 'Hammamet' (2024-08-11 --> 2024-08-12)
+2024-08-07 12:04:28,417 - INFO - Scraping Agoda for hotels in 'Hammamet' (2024-08-11 --> 2024-08-12)
+2024-08-07 12:05:07,209 - INFO - Scraping Agoda for hotels in 'Hammamet' (2024-08-11 --> 2024-08-12)
+2024-08-07 12:05:14,645 - INFO - Script started
+2024-08-07 12:05:14,645 - INFO - Script completed
+2024-08-07 12:05:14,645 - INFO - Total execution time: 0.00 seconds
+2024-08-07 12:18:29,515 - INFO - Scraping Agoda for hotels in 'Hammamet' (2024-08-11 --> 2024-08-12)
+2024-08-07 12:18:42,143 - INFO - Script started
+2024-08-07 12:18:42,143 - INFO - Script completed
+2024-08-07 12:18:42,143 - INFO - Total execution time: 0.00 seconds
+2024-08-07 12:19:05,303 - INFO - Scraping Agoda for hotels in 'Hammamet' (2024-08-11 --> 2024-08-12)
+2024-08-07 12:19:17,945 - INFO - Script started
+2024-08-07 12:19:17,945 - INFO - Script completed
+2024-08-07 12:19:17,945 - INFO - Total execution time: 0.00 seconds
+2024-08-07 12:19:43,318 - INFO - Scraping Agoda for hotels in 'Hammamet' (2024-08-11 --> 2024-08-12)
+2024-08-07 12:19:55,035 - INFO - Script started
+2024-08-07 12:19:55,035 - INFO - Script completed
+2024-08-07 12:19:55,035 - INFO - Total execution time: 0.00 seconds
+2024-08-07 12:20:18,983 - INFO - Scraping Agoda for hotels in 'Hammamet' (2024-08-11 --> 2024-08-12)
+2024-08-07 12:20:30,903 - INFO - Script started
+2024-08-07 12:20:30,903 - INFO - Script completed
+2024-08-07 12:20:30,903 - INFO - Total execution time: 0.00 seconds
+2024-08-07 12:24:18,159 - INFO - Scraping Agoda for hotels in 'Hammamet' (2024-08-11 --> 2024-08-12)
+2024-08-07 12:24:44,208 - INFO - Script started
+2024-08-07 12:24:44,208 - INFO - Script completed
+2024-08-07 12:24:44,208 - INFO - Total execution time: 0.00 seconds
+2024-08-07 12:26:41,196 - INFO - Scraping Agoda for hotels in 'Hammamet' (2024-08-11 --> 2024-08-12)
+2024-08-07 12:51:08,170 - INFO - Scraping Agoda for hotels in 'Hammamet' (2024-08-11 --> 2024-08-12)
+2024-08-07 12:51:40,875 - INFO - Script started
+2024-08-07 12:51:40,875 - INFO - Script completed
+2024-08-07 12:51:40,875 - INFO - Total execution time: 0.00 seconds
+2024-08-07 12:54:06,120 - INFO - Scraping Agoda for hotels in 'Hammamet' (2024-08-11 --> 2024-08-12)
+2024-08-07 12:54:39,794 - INFO - Script started
+2024-08-07 12:54:39,794 - INFO - Script completed
+2024-08-07 12:54:39,794 - INFO - Total execution time: 0.00 seconds
+2024-08-07 12:56:18,178 - INFO - Scraping Agoda for hotels in 'Hammamet' (2024-08-07 --> 2024-08-08)
+2024-08-07 12:56:49,474 - INFO - Script started
+2024-08-07 12:56:49,474 - INFO - Script completed
+2024-08-07 12:56:49,474 - INFO - Total execution time: 0.00 seconds
+2024-08-07 12:58:57,162 - INFO - Scraping Agoda for hotels in 'Hammamet' (2024-08-07 --> 2024-08-08)
+2024-08-07 12:59:25,034 - INFO - Script started
+2024-08-07 12:59:25,034 - INFO - Script completed
+2024-08-07 12:59:25,034 - INFO - Total execution time: 0.00 seconds
+2024-08-07 13:03:18,118 - INFO - Scraping Agoda for hotels in 'Hammamet' (2024-08-07 --> 2024-08-08)
+2024-08-07 13:03:45,331 - INFO - Scraping Agoda for hotels in 'Hammamet' (2024-08-07 --> 2024-08-08)
+2024-08-07 13:04:48,973 - INFO - Scraping Agoda for hotels in 'Hammamet' (2024-08-07 --> 2024-08-08)
+2024-08-07 13:05:17,446 - INFO - Script started
+2024-08-07 13:05:17,447 - INFO - Script completed
+2024-08-07 13:05:17,447 - INFO - Total execution time: 0.00 seconds
+2024-08-07 13:06:40,688 - INFO - Scraping Agoda for hotels in 'Hammamet' (2024-08-07 --> 2024-08-08)
