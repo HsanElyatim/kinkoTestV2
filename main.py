@@ -114,7 +114,7 @@ def main(args):
     check_in = datetime.strptime(args.checkIn, "%Y-%m-%d").date()
     check_out = datetime.strptime(args.checkOut, "%Y-%m-%d").date()
 
-    driver = init_firefox_driver
+    driver = init_firefox_driver()
 
     for source_name in sources:
         if source_name not in SCRAPING_SOURCES:
@@ -138,7 +138,7 @@ def main(args):
             transform_load(data, f"{source_name}_src", engine)
 
     driver.close()
-    
+
     print("-----------------------")
     end_time = time.time()
     print(f"Done in {end_time - start_time}")
