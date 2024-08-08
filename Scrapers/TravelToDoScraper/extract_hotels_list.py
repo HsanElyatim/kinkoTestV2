@@ -33,6 +33,9 @@ def extract_hotels_list(driver):
         results = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "results")))
         hotels_list = results.find_elements(By.CLASS_NAME, "card")
 
+        while len(hotels_list) < total_results_count:
+            hotels_list = results.find_elements(By.CLASS_NAME, "card")
+
         print(f">> {len(hotels_list)}/{total_results_count} hotel found.")
         return hotels_list
     except (NoSuchElementException, TimeoutException) as e:
