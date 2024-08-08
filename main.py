@@ -112,7 +112,8 @@ def main(args):
     sources = args.sources.split(',') if isinstance(args.sources, str) else args.sources
     destinations = args.destinations.split(',') if isinstance(args.destinations, str) else args.destinations
     check_in = datetime.strptime(args.checkIn, "%Y-%m-%d").date()
-    check_out = datetime.strptime(args.checkOut, "%Y-%m-%d").date()
+    nb_nights = args.nbNights
+    check_out = check_in + timedelta(days=nb_nights)
 
     driver = init_firefox_driver()
 
@@ -153,7 +154,7 @@ if __name__ == "__main__":
     parser.add_argument('--sources', type=str, required=True, help='The source(s) for scraping, comma-separated (e.g., traveltodo,tunisiebooking,libertavoyages)')
     parser.add_argument('--destinations', type=str, required=True, help='The destination(s) for scraping, comma-separated (e.g., Hammamet,Tunis)')
     parser.add_argument('--checkIn', type=str, required=True, help='Check-in date in YYYY-MM-DD format')
-    parser.add_argument('--checkOut', type=str, required=True, help='Check-out date in YYYY-MM-DD format')
+    parser.add_argument('--nbNights', type=int, required=True, help='Number of nights to stay')
 
     args = parser.parse_args()
     main(args)
