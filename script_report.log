@@ -143,3 +143,304 @@
 2024-08-07 13:05:17,447 - INFO - Script completed
 2024-08-07 13:05:17,447 - INFO - Total execution time: 0.00 seconds
 2024-08-07 13:06:40,688 - INFO - Scraping Agoda for hotels in 'Hammamet' (2024-08-07 --> 2024-08-08)
+2024-08-08 10:37:50,268 - INFO - Script started
+2024-08-08 10:37:57,394 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-08 --> 2024-08-09)
+2024-08-08 10:38:44,359 - INFO - Got info of 24/63 hotels
+2024-08-08 10:38:44,359 - INFO - Processed records: 24
+2024-08-08 10:38:52,102 - INFO - Scraping Travel To Do for hotels in Tunis (2024-08-08 --> 2024-08-09)
+2024-08-08 10:39:58,415 - INFO - Got info of 47/54 hotels
+2024-08-08 10:39:58,415 - INFO - Processed records: 47
+2024-08-08 10:40:05,868 - INFO - Scraping Tunisie Booking for hotels in Hammamet (2024-08-08 --> 2024-08-09)
+2024-08-08 10:40:22,944 - INFO - Got info of 6/6 hotels
+2024-08-08 10:40:22,944 - INFO - Processed records: 6
+2024-08-08 10:40:30,230 - INFO - Scraping Tunisie Booking for hotels in Tunis (2024-08-08 --> 2024-08-09)
+2024-08-08 10:40:49,260 - INFO - Got info of 16/16 hotels
+2024-08-08 10:40:49,260 - INFO - Processed records: 16
+2024-08-08 10:42:52,756 - INFO - Script started
+2024-08-08 10:42:57,373 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-08 --> 2024-08-09)
+2024-08-08 10:43:42,821 - INFO - Got info of 24/63 hotels
+2024-08-08 10:43:42,821 - INFO - Processed records: 24
+2024-08-08 10:43:50,213 - INFO - Scraping Travel To Do for hotels in Tunis (2024-08-08 --> 2024-08-09)
+2024-08-08 10:44:57,388 - INFO - Got info of 47/54 hotels
+2024-08-08 10:44:57,389 - INFO - Processed records: 47
+2024-08-08 10:45:04,709 - INFO - Scraping Tunisie Booking for hotels in Hammamet (2024-08-08 --> 2024-08-09)
+2024-08-08 10:45:21,531 - INFO - Got info of 6/6 hotels
+2024-08-08 10:45:21,532 - INFO - Processed records: 6
+2024-08-08 10:45:28,801 - INFO - Scraping Tunisie Booking for hotels in Tunis (2024-08-08 --> 2024-08-09)
+2024-08-08 10:45:47,708 - INFO - Got info of 16/16 hotels
+2024-08-08 10:45:47,708 - INFO - Processed records: 16
+2024-08-08 10:45:50,379 - INFO - Script completed
+2024-08-08 10:45:50,379 - INFO - Total execution time: 177.62 seconds
+2024-08-08 10:46:29,322 - INFO - Script started
+2024-08-08 10:46:33,899 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-08 --> 2024-08-09)
+2024-08-08 10:46:43,229 - INFO - Got info of 0/0 hotels
+2024-08-08 10:46:43,229 - INFO - Processed records: 0
+2024-08-08 10:46:50,595 - INFO - Scraping Tunisie Booking for hotels in Hammamet (2024-08-08 --> 2024-08-09)
+2024-08-08 10:47:07,432 - INFO - Got info of 6/6 hotels
+2024-08-08 10:47:07,433 - INFO - Processed records: 6
+2024-08-08 10:47:14,645 - INFO - Scraping Liberta for hotels in 'Hammamet' (2024-08-08 --> 2024-08-09)
+2024-08-08 10:48:11,581 - INFO - Got info of 62/67 hotels
+2024-08-08 10:48:11,581 - INFO - Processed records: 62
+2024-08-08 10:48:14,478 - INFO - Script completed
+2024-08-08 10:48:14,478 - INFO - Total execution time: 105.16 seconds
+2024-08-08 10:49:15,479 - INFO - Script started
+2024-08-08 10:49:20,099 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-08 --> 2024-08-11)
+2024-08-08 10:49:58,052 - INFO - Got info of 19/64 hotels
+2024-08-08 10:49:58,052 - INFO - Processed records: 19
+2024-08-08 10:50:05,431 - INFO - Scraping Tunisie Booking for hotels in Hammamet (2024-08-08 --> 2024-08-11)
+2024-08-08 10:50:22,680 - INFO - Got info of 7/7 hotels
+2024-08-08 10:50:22,680 - INFO - Processed records: 7
+2024-08-08 10:50:30,067 - INFO - Scraping Liberta for hotels in 'Hammamet' (2024-08-08 --> 2024-08-11)
+2024-08-08 10:51:16,739 - INFO - Got info of 60/64 hotels
+2024-08-08 10:51:16,739 - INFO - Processed records: 60
+2024-08-08 10:51:19,538 - INFO - Script completed
+2024-08-08 10:51:19,538 - INFO - Total execution time: 124.06 seconds
+2024-08-08 11:01:13,480 - INFO - Script started
+2024-08-08 11:01:18,051 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-08 --> 2024-08-11)
+2024-08-08 11:01:52,109 - INFO - Got info of 19/64 hotels
+2024-08-08 11:01:52,109 - INFO - Processed records: 19
+2024-08-08 11:01:55,009 - INFO - Script completed
+2024-08-08 11:01:55,009 - INFO - Total execution time: 41.53 seconds
+2024-08-08 11:39:43,079 - INFO - Script started
+2024-08-08 11:39:48,095 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-08 --> 2024-08-11)
+2024-08-08 11:40:23,804 - INFO - Got info of 64/64 hotels
+2024-08-08 11:40:23,805 - INFO - Processed records: 64
+2024-08-08 11:40:26,716 - INFO - Script completed
+2024-08-08 11:40:26,716 - INFO - Total execution time: 43.64 seconds
+2024-08-08 11:45:00,191 - INFO - Script started
+2024-08-08 11:45:04,879 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-08 --> 2024-08-11)
+2024-08-08 11:45:15,434 - INFO - Got info of 0/0 hotels
+2024-08-08 11:45:15,434 - INFO - Processed records: 0
+2024-08-08 11:45:22,865 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-08 --> 2024-08-11)
+2024-08-08 11:45:57,818 - INFO - Got info of 64/64 hotels
+2024-08-08 11:45:57,818 - INFO - Processed records: 64
+2024-08-08 11:46:00,978 - INFO - Script completed
+2024-08-08 11:46:00,978 - INFO - Total execution time: 60.79 seconds
+2024-08-08 11:50:22,085 - INFO - Script started
+2024-08-08 11:50:26,831 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-08 --> 2024-08-11)
+2024-08-08 11:51:01,729 - INFO - Got info of 64/64 hotels
+2024-08-08 11:51:01,729 - INFO - Processed records: 64
+2024-08-08 11:51:04,662 - INFO - Script completed
+2024-08-08 11:51:04,662 - INFO - Total execution time: 42.58 seconds
+2024-08-08 11:53:02,505 - INFO - Script started
+2024-08-08 11:53:07,162 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-08 --> 2024-08-11)
+2024-08-08 11:53:41,592 - INFO - Got info of 64/64 hotels
+2024-08-08 11:53:41,592 - INFO - Processed records: 64
+2024-08-08 11:53:44,504 - INFO - Script completed
+2024-08-08 11:53:44,504 - INFO - Total execution time: 42.00 seconds
+2024-08-08 12:26:31,075 - INFO - Script started
+2024-08-08 12:26:36,212 - INFO - Scraping Tunisie Booking for hotels in Hammamet (2024-08-08 --> 2024-08-11)
+2024-08-08 12:26:53,304 - INFO - Got info of 6/6 hotels
+2024-08-08 12:26:53,304 - INFO - Processed records: 6
+2024-08-08 12:26:56,220 - INFO - Script completed
+2024-08-08 12:26:56,220 - INFO - Total execution time: 25.14 seconds
+2024-08-08 12:28:13,182 - INFO - Script started
+2024-08-08 12:28:17,946 - INFO - Scraping Tunisie Booking for hotels in Hammamet (2024-08-08 --> 2024-08-11)
+2024-08-08 12:29:11,174 - INFO - Script started
+2024-08-08 12:29:15,789 - INFO - Scraping Tunisie Booking for hotels in Hammamet (2024-08-08 --> 2024-08-11)
+2024-08-08 12:29:36,604 - INFO - Got info of 68/68 hotels
+2024-08-08 12:29:36,604 - INFO - Processed records: 68
+2024-08-08 12:29:39,493 - INFO - Script completed
+2024-08-08 12:29:39,493 - INFO - Total execution time: 28.32 seconds
+2024-08-08 12:32:46,935 - INFO - Script started
+2024-08-08 12:32:51,569 - INFO - Scraping Liberta for hotels in 'Hammamet' (2024-08-08 --> 2024-08-11)
+2024-08-08 12:33:44,167 - INFO - Got info of 60/65 hotels
+2024-08-08 12:33:44,167 - INFO - Processed records: 60
+2024-08-08 12:33:47,013 - INFO - Script completed
+2024-08-08 12:33:47,013 - INFO - Total execution time: 60.08 seconds
+2024-08-08 12:56:24,222 - INFO - Script started
+2024-08-08 12:56:29,224 - INFO - Scraping Liberta for hotels in 'Hammamet' (2024-08-08 --> 2024-08-11)
+2024-08-08 12:58:33,026 - INFO - Script started
+2024-08-08 12:58:37,866 - INFO - Scraping Liberta for hotels in 'Hammamet' (2024-08-08 --> 2024-08-11)
+2024-08-08 12:59:27,087 - INFO - Got info of 60/65 hotels
+2024-08-08 12:59:27,087 - INFO - Processed records: 60
+2024-08-08 13:22:08,041 - INFO - Script started
+2024-08-08 13:22:12,830 - INFO - Scraping Liberta for hotels in 'Hammamet' (2024-08-08 --> 2024-08-11)
+2024-08-08 13:23:05,153 - INFO - Got info of 59/64 hotels
+2024-08-08 13:23:05,154 - INFO - Processed records: 59
+2024-08-08 13:23:08,006 - INFO - Script completed
+2024-08-08 13:23:08,006 - INFO - Total execution time: 59.97 seconds
+2024-08-08 13:23:58,908 - INFO - Script started
+2024-08-08 13:24:03,683 - INFO - Scraping Liberta for hotels in 'Hammamet' (2024-08-08 --> 2024-08-11)
+2024-08-08 13:24:54,203 - INFO - Got info of 59/64 hotels
+2024-08-08 13:24:54,203 - INFO - Processed records: 59
+2024-08-08 13:24:57,071 - INFO - Script completed
+2024-08-08 13:24:57,071 - INFO - Total execution time: 58.16 seconds
+2024-08-08 13:33:17,823 - INFO - Script started
+2024-08-08 13:33:22,699 - INFO - Scraping Liberta for hotels in 'Hammamet' (2024-08-08 --> 2024-08-11)
+2024-08-08 13:33:50,448 - INFO - Script started
+2024-08-08 13:33:55,811 - INFO - Scraping Liberta for hotels in 'Hammamet' (2024-08-08 --> 2024-08-11)
+2024-08-08 13:38:11,601 - INFO - Script started
+2024-08-08 13:38:17,185 - INFO - Scraping Liberta for hotels in 'Hammamet' (2024-08-08 --> 2024-08-11)
+2024-08-08 13:40:32,734 - INFO - Script started
+2024-08-08 13:40:38,516 - INFO - Scraping Liberta for hotels in 'Hammamet' (2024-08-08 --> 2024-08-11)
+2024-08-08 13:40:59,331 - INFO - Got info of 0/0 hotels
+2024-08-08 13:40:59,331 - INFO - Processed records: 0
+2024-08-08 13:41:08,699 - INFO - Scraping Liberta for hotels in 'Hammamet' (2024-08-08 --> 2024-08-11)
+2024-08-08 13:41:29,565 - INFO - Got info of 0/0 hotels
+2024-08-08 13:41:29,565 - INFO - Processed records: 0
+2024-08-08 13:41:38,293 - INFO - Scraping Liberta for hotels in 'Hammamet' (2024-08-08 --> 2024-08-11)
+2024-08-08 13:41:57,924 - INFO - Got info of 0/0 hotels
+2024-08-08 13:41:57,924 - INFO - Processed records: 0
+2024-08-08 13:42:07,017 - INFO - Scraping Liberta for hotels in 'Hammamet' (2024-08-08 --> 2024-08-11)
+2024-08-08 13:42:35,955 - INFO - Got info of 0/0 hotels
+2024-08-08 13:42:35,955 - INFO - Processed records: 0
+2024-08-08 13:42:39,148 - INFO - Script completed
+2024-08-08 13:42:39,148 - INFO - Total execution time: 126.41 seconds
+2024-08-08 13:51:40,248 - INFO - Script started
+2024-08-08 13:51:45,843 - INFO - Scraping Liberta for hotels in 'Hammamet' (2024-08-08 --> 2024-08-11)
+2024-08-08 13:52:05,553 - INFO - Got info of 0/0 hotels
+2024-08-08 13:52:05,553 - INFO - Processed records: 0
+2024-08-08 13:52:15,751 - INFO - Scraping Liberta for hotels in 'Hammamet' (2024-08-08 --> 2024-08-11)
+2024-08-08 13:52:35,171 - INFO - Got info of 0/0 hotels
+2024-08-08 13:52:35,171 - INFO - Processed records: 0
+2024-08-08 13:52:44,540 - INFO - Scraping Liberta for hotels in 'Hammamet' (2024-08-08 --> 2024-08-11)
+2024-08-08 13:53:05,636 - INFO - Got info of 0/0 hotels
+2024-08-08 13:53:05,636 - INFO - Processed records: 0
+2024-08-08 13:53:15,075 - INFO - Scraping Liberta for hotels in 'Hammamet' (2024-08-08 --> 2024-08-11)
+2024-08-08 13:53:34,630 - INFO - Got info of 0/0 hotels
+2024-08-08 13:53:34,630 - INFO - Processed records: 0
+2024-08-08 13:53:38,069 - INFO - Script completed
+2024-08-08 13:53:38,069 - INFO - Total execution time: 117.82 seconds
+2024-08-08 13:54:58,813 - INFO - Script started
+2024-08-08 13:55:04,700 - INFO - Scraping Liberta for hotels in 'Hammamet' (2024-08-08 --> 2024-08-11)
+2024-08-08 13:56:00,552 - INFO - Got info of 59/64 hotels
+2024-08-08 13:56:00,552 - INFO - Processed records: 59
+2024-08-08 13:56:34,187 - INFO - Script started
+2024-08-08 13:56:40,246 - INFO - Scraping Liberta for hotels in 'Hammamet' (2024-08-08 --> 2024-08-11)
+2024-08-08 13:56:59,344 - INFO - Script started
+2024-08-08 13:57:03,973 - INFO - Scraping Liberta for hotels in 'Hammamet' (2024-08-08 --> 2024-08-11)
+2024-08-08 13:57:51,073 - INFO - Got info of 59/64 hotels
+2024-08-08 13:57:51,073 - INFO - Processed records: 59
+2024-08-08 14:02:38,652 - INFO - Script started
+2024-08-08 14:02:43,409 - INFO - Scraping Liberta for hotels in 'Hammamet' (2024-08-08 --> 2024-08-11)
+2024-08-08 14:03:50,557 - INFO - Got info of 58/62 hotels
+2024-08-08 14:03:50,557 - INFO - Processed records: 58
+2024-08-08 14:03:53,748 - INFO - Script completed
+2024-08-08 14:03:53,748 - INFO - Total execution time: 75.09 seconds
+2024-08-08 14:27:06,176 - INFO - Script started
+2024-08-08 14:27:10,939 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-08 --> 2024-08-11)
+2024-08-08 14:27:46,495 - INFO - Got info of 64/64 hotels
+2024-08-08 14:27:46,496 - INFO - Processed records: 64
+2024-08-08 14:27:49,291 - INFO - Script completed
+2024-08-08 14:27:49,291 - INFO - Total execution time: 43.11 seconds
+2024-08-08 14:48:41,711 - INFO - Script started
+2024-08-08 14:48:46,370 - INFO - Scraping Tunisie Booking for hotels in Hammamet (2024-08-08 --> 2024-08-11)
+2024-08-08 14:49:14,668 - INFO - Script started
+2024-08-08 14:49:19,401 - INFO - Scraping Tunisie Booking for hotels in Hammamet (2024-08-08 --> 2024-08-11)
+2024-08-08 14:49:34,915 - INFO - Got info of 0/0 hotels
+2024-08-08 14:49:34,915 - INFO - Processed records: 0
+2024-08-08 14:50:29,665 - INFO - Script started
+2024-08-08 14:50:34,482 - INFO - Scraping Tunisie Booking for hotels in Hammamet (2024-08-08 --> 2024-08-11)
+2024-08-08 14:50:54,599 - INFO - Got info of 68/68 hotels
+2024-08-08 14:50:54,599 - INFO - Processed records: 68
+2024-08-08 14:50:57,367 - INFO - Script completed
+2024-08-08 14:50:57,368 - INFO - Total execution time: 27.70 seconds
+2024-08-08 15:16:12,628 - INFO - Script started
+2024-08-08 15:16:43,423 - INFO - Script started
+2024-08-08 15:16:48,314 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-08 --> 2024-08-11)
+2024-08-08 15:17:24,084 - INFO - Got info of 64/64 hotels
+2024-08-08 15:17:24,084 - INFO - Processed records: 64
+2024-08-08 15:17:31,963 - INFO - Scraping Travel To Do for hotels in Tunis (2024-08-08 --> 2024-08-11)
+2024-08-08 15:20:39,226 - INFO - Script started
+2024-08-08 15:20:43,876 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-08 --> 2024-08-11)
+2024-08-08 15:21:18,704 - INFO - Got info of 64/64 hotels
+2024-08-08 15:21:18,704 - INFO - Processed records: 64
+2024-08-08 15:21:26,139 - INFO - Scraping Travel To Do for hotels in Tunis (2024-08-08 --> 2024-08-11)
+2024-08-08 15:23:01,356 - INFO - Script started
+2024-08-08 15:23:06,014 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-08 --> 2024-08-11)
+2024-08-08 15:23:16,025 - INFO - Got info of 0/0 hotels
+2024-08-08 15:23:16,025 - INFO - Processed records: 0
+2024-08-08 15:23:23,321 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-08 --> 2024-08-11)
+2024-08-08 15:23:58,614 - INFO - Got info of 64/64 hotels
+2024-08-08 15:23:58,614 - INFO - Processed records: 64
+2024-08-08 15:24:06,091 - INFO - Scraping Travel To Do for hotels in Tunis (2024-08-08 --> 2024-08-11)
+2024-08-08 15:31:27,186 - INFO - Script started
+2024-08-08 15:31:31,811 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-08 --> 2024-08-11)
+2024-08-08 15:32:08,232 - INFO - Got info of 64/64 hotels
+2024-08-08 15:32:08,232 - INFO - Processed records: 64
+2024-08-08 15:32:15,621 - INFO - Scraping Travel To Do for hotels in Tunis (2024-08-08 --> 2024-08-11)
+2024-08-08 15:33:06,478 - INFO - Script started
+2024-08-08 15:33:11,363 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-08 --> 2024-08-11)
+2024-08-08 15:33:47,164 - INFO - Got info of 64/64 hotels
+2024-08-08 15:33:47,164 - INFO - Processed records: 64
+2024-08-08 15:33:54,555 - INFO - Scraping Travel To Do for hotels in Tunis (2024-08-08 --> 2024-08-11)
+2024-08-08 15:35:02,073 - INFO - Got info of 54/54 hotels
+2024-08-08 15:35:02,073 - INFO - Processed records: 54
+2024-08-08 15:35:09,505 - INFO - Scraping Travel To Do for hotels in Monastir (2024-08-08 --> 2024-08-11)
+2024-08-08 15:35:31,565 - INFO - Got info of 22/22 hotels
+2024-08-08 15:35:31,565 - INFO - Processed records: 22
+2024-08-08 15:35:38,897 - INFO - Scraping Travel To Do for hotels in Sousse (2024-08-08 --> 2024-08-11)
+2024-08-08 15:36:04,241 - INFO - Got info of 40/40 hotels
+2024-08-08 15:36:04,241 - INFO - Processed records: 40
+2024-08-08 15:36:11,507 - INFO - Scraping Travel To Do for hotels in Djerba (2024-08-08 --> 2024-08-11)
+2024-08-08 15:36:45,419 - INFO - Got info of 51/51 hotels
+2024-08-08 15:36:45,419 - INFO - Processed records: 51
+2024-08-08 15:36:52,691 - INFO - Scraping Travel To Do for hotels in Mahdia (2024-08-08 --> 2024-08-11)
+2024-08-08 15:37:10,286 - INFO - Got info of 13/13 hotels
+2024-08-08 15:37:10,286 - INFO - Processed records: 13
+2024-08-08 15:37:17,644 - INFO - Scraping Travel To Do for hotels in Tozeur (2024-08-08 --> 2024-08-11)
+2024-08-08 15:37:40,487 - INFO - Got info of 7/7 hotels
+2024-08-08 15:37:40,488 - INFO - Processed records: 7
+2024-08-08 15:37:47,778 - INFO - Scraping Travel To Do for hotels in Tabarka (2024-08-08 --> 2024-08-11)
+2024-08-08 15:37:57,903 - INFO - Got info of 5/5 hotels
+2024-08-08 15:37:57,903 - INFO - Processed records: 5
+2024-08-08 15:38:05,179 - INFO - Scraping Tunisie Booking for hotels in Hammamet (2024-08-08 --> 2024-08-11)
+2024-08-08 15:38:25,066 - INFO - Got info of 68/68 hotels
+2024-08-08 15:38:25,067 - INFO - Processed records: 68
+2024-08-08 15:38:32,407 - INFO - Scraping Tunisie Booking for hotels in Tunis (2024-08-08 --> 2024-08-11)
+2024-08-08 15:38:51,354 - INFO - Got info of 20/20 hotels
+2024-08-08 15:38:51,354 - INFO - Processed records: 20
+2024-08-08 15:38:58,618 - INFO - Scraping Tunisie Booking for hotels in Monastir (2024-08-08 --> 2024-08-11)
+2024-08-08 15:39:15,843 - INFO - Got info of 26/26 hotels
+2024-08-08 15:39:15,843 - INFO - Processed records: 26
+2024-08-08 15:39:23,062 - INFO - Scraping Tunisie Booking for hotels in Sousse (2024-08-08 --> 2024-08-11)
+2024-08-08 15:39:42,120 - INFO - Got info of 44/44 hotels
+2024-08-08 15:39:42,121 - INFO - Processed records: 44
+2024-08-08 15:39:49,549 - INFO - Scraping Tunisie Booking for hotels in Djerba (2024-08-08 --> 2024-08-11)
+2024-08-08 15:40:08,217 - INFO - Got info of 58/58 hotels
+2024-08-08 15:40:08,217 - INFO - Processed records: 58
+2024-08-08 15:40:15,542 - INFO - Scraping Tunisie Booking for hotels in Mahdia (2024-08-08 --> 2024-08-11)
+2024-08-08 15:40:32,559 - INFO - Got info of 14/14 hotels
+2024-08-08 15:40:32,559 - INFO - Processed records: 14
+2024-08-08 15:40:39,857 - INFO - Scraping Tunisie Booking for hotels in Tozeur (2024-08-08 --> 2024-08-11)
+2024-08-08 15:40:56,889 - INFO - Got info of 6/6 hotels
+2024-08-08 15:40:56,889 - INFO - Processed records: 6
+2024-08-08 15:41:04,122 - INFO - Scraping Tunisie Booking for hotels in Tabarka (2024-08-08 --> 2024-08-11)
+2024-08-08 15:41:19,906 - INFO - Got info of 7/7 hotels
+2024-08-08 15:41:19,907 - INFO - Processed records: 7
+2024-08-08 15:41:27,164 - INFO - Scraping Liberta for hotels in 'Hammamet' (2024-08-08 --> 2024-08-11)
+2024-08-08 15:42:11,239 - INFO - Got info of 58/64 hotels
+2024-08-08 15:42:11,239 - INFO - Processed records: 58
+2024-08-08 15:42:18,707 - INFO - Scraping Liberta for hotels in 'Tunis' (2024-08-08 --> 2024-08-11)
+2024-08-08 15:42:39,440 - INFO - Got info of 0/0 hotels
+2024-08-08 15:42:39,440 - INFO - Processed records: 0
+2024-08-08 15:42:46,674 - INFO - Scraping Liberta for hotels in 'Tunis' (2024-08-08 --> 2024-08-11)
+2024-08-08 15:43:12,892 - INFO - Got info of 0/0 hotels
+2024-08-08 15:43:12,892 - INFO - Processed records: 0
+2024-08-08 15:43:20,194 - INFO - Scraping Liberta for hotels in 'Tunis' (2024-08-08 --> 2024-08-11)
+2024-08-08 15:44:12,579 - INFO - Got info of 43/43 hotels
+2024-08-08 15:44:12,579 - INFO - Processed records: 43
+2024-08-08 15:44:20,037 - INFO - Scraping Liberta for hotels in 'Monastir' (2024-08-08 --> 2024-08-11)
+2024-08-08 15:44:41,027 - INFO - Got info of 0/0 hotels
+2024-08-08 15:44:41,027 - INFO - Processed records: 0
+2024-08-08 15:44:48,306 - INFO - Scraping Liberta for hotels in 'Monastir' (2024-08-08 --> 2024-08-11)
+2024-08-08 15:45:24,877 - INFO - Got info of 23/24 hotels
+2024-08-08 15:45:24,878 - INFO - Processed records: 23
+2024-08-08 15:45:32,173 - INFO - Scraping Liberta for hotels in 'Sousse' (2024-08-08 --> 2024-08-11)
+2024-08-08 15:46:10,954 - INFO - Got info of 31/35 hotels
+2024-08-08 15:46:10,954 - INFO - Processed records: 31
+2024-08-08 15:46:18,333 - INFO - Scraping Liberta for hotels in 'Djerba' (2024-08-08 --> 2024-08-11)
+2024-08-08 15:46:59,076 - INFO - Got info of 50/50 hotels
+2024-08-08 15:46:59,077 - INFO - Processed records: 50
+2024-08-08 15:47:06,523 - INFO - Scraping Liberta for hotels in 'Mahdia' (2024-08-08 --> 2024-08-11)
+2024-08-08 15:47:41,042 - INFO - Got info of 13/14 hotels
+2024-08-08 15:47:41,042 - INFO - Processed records: 13
+2024-08-08 15:47:48,400 - INFO - Scraping Liberta for hotels in 'Tozeur' (2024-08-08 --> 2024-08-11)
+2024-08-08 15:48:25,795 - INFO - Got info of 9/9 hotels
+2024-08-08 15:48:25,795 - INFO - Processed records: 9
+2024-08-08 15:48:33,154 - INFO - Scraping Liberta for hotels in 'Tabarka' (2024-08-08 --> 2024-08-11)
+2024-08-08 15:49:07,623 - INFO - Got info of 7/7 hotels
+2024-08-08 15:49:07,623 - INFO - Processed records: 7
+2024-08-08 15:49:10,363 - INFO - Script completed
+2024-08-08 15:49:10,364 - INFO - Total execution time: 963.89 seconds

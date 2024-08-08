@@ -24,7 +24,38 @@ def select_date(date_container, date):
         print("Error selecting date!")
 
 
-def search(driver, destination, arr_date, dep_date):
+def select_nb_adults(driver, nb_adults):
+    try:
+        container = driver.find_element(By.CLASS_NAME, "groupe_adultes")
+        inc_btn = container.find_element(By.ID, 'adplus1')
+        dec_btn = container.find_element(By.ID, 'admoins1')
+        curr_nb_adults = int(container.find_element(By.CLASS_NAME, 'input_ad').text.strip())
+        if curr_nb_adults > nb_adults:
+            while curr_nb_adults != nb_adults:
+                dec_btn.click()
+        elif curr_nb_adults < nb_adults:
+            while curr_nb_adults != nb_adults:
+                inc_btn.click()
+    except NoSuchElementException:
+        pass
+
+
+def select_nb_adults(driver, nb_enfants):
+    try:
+        container = driver.find_element(By.CLASS_NAME, "groupe_enfants")
+        inc_btn = container.find_element(By.ID, 'enplus1')
+        dec_btn = container.find_element(By.ID, 'enmoins1')
+        curr_nb_enfants = int(container.find_element(By.CLASS_NAME, 'input_ad').text.strip())
+        if curr_nb_enfants > nb_enfants:
+            while curr_nb_enfants != nb_enfants:
+                dec_btn.click()
+        elif curr_nb_enfants < nb_enfants:
+            while curr_nb_enfants != nb_enfants:
+                inc_btn.click()
+    except NoSuchElementException:
+        pass
+
+def search(driver, destination, arr_date, dep_date, nb_adults, nb_enfants):
     try:
         # Find the hotel search form
         form = driver.find_element(By.ID, "hotel")
@@ -51,6 +82,9 @@ def search(driver, destination, arr_date, dep_date):
         date_containers = driver.find_elements(By.CLASS_NAME, "daterangepicker")
         select_date(date_containers[0], arr_date)
         select_date(date_containers[1], dep_date)
+
+        select_nb_adults(driver, nb_adults)
+        select_nb_adults(driver, nb_enfants)
 
         # Click the "close" button on the form
         close_button_el = form.find_element(By.CLASS_NAME, "fermer_ch1")

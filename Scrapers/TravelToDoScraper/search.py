@@ -90,7 +90,32 @@ def select_date(driver, date_picker, date):
         print("Error selecting date!")
 
 
-def search(driver, destination, arr_date, dep_date):
+def select_nb_adults(driver, nb_adults):
+    try:
+        nb_adults_selector = driver.find_element(By.CLASS_NAME, "adultshotel")
+        options = nb_adults_selector.find_elements(By.TAG_NAME, 'option')
+        for option in options:
+            if option.get_attribute("value") == nb_adults:
+                option.click()
+                break
+    except (NoSuchElementException, ElementNotInteractableException):
+        pass
+
+
+def select_nb_adults(driver, nb_enfants):
+    try:
+        nb_enfants_selector = driver.find_element(By.CLASS_NAME, "childrenhotel")
+        options = nb_enfants_selector.find_elements(By.TAG_NAME, 'option')
+        for option in options:
+            if option.get_attribute("value") == nb_enfants:
+                option.click()
+                break
+    except (NoSuchElementException, ElementNotInteractableException):
+        pass
+
+
+
+def search(driver, destination, arr_date, dep_date, nb_adults, nb_enfants):
     """
         Performs a hotel search on a booking website.
 
@@ -115,6 +140,10 @@ def search(driver, destination, arr_date, dep_date):
         date_pickers = driver.find_elements(By.CLASS_NAME, "pika-single")
         select_date(driver, date_pickers[0], arr_date)
         select_date(driver, date_pickers[1], dep_date)
+
+        select_nb_adults(driver, nb_adults)
+
+        select_nb_adults(driver, nb_enfants)
 
         # Click on the search button
         search_btn = search_form.find_element(By.CLASS_NAME, "fas")

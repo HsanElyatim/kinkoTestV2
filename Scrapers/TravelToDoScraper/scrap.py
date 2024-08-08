@@ -10,7 +10,7 @@ load_dotenv()
 URL = os.getenv('TRAVELTODO_URL')
 
 
-def scrap(destination, check_in, check_out):
+def scrap(destination, check_in, check_out, nb_adults, nb_enfants):
     """
         Scrapes Travel To Do website for hotels information based on the provided destination, check-in, and check-out dates.
 
@@ -32,7 +32,7 @@ def scrap(destination, check_in, check_out):
     driver.get(URL)
 
     print("Searching...")
-    if not search(driver, destination, check_in, check_out):
+    if not search(driver, destination, check_in, check_out, nb_adults, nb_enfants):
         driver.close()
         driver = init_firefox_driver()
         driver.get(URL)

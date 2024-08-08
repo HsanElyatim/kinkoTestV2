@@ -52,7 +52,7 @@ def get_rooms_info(hotel):
 
         return rooms_info
     except NoSuchElementException as e:
-        print("Error getting rooms info!")
+        # print("Error getting rooms info!")
         return []
 
 

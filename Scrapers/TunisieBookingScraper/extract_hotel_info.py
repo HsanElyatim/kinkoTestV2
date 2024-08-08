@@ -97,19 +97,35 @@ def get_hotel_info(driver, hotel_id):
         rooms_info = get_rooms_info(hotel_el, h_id)
 
         hotel_info = []
-        for room in rooms_info:
+        
+        if len(rooms_info) > 0:
+            for room in rooms_info:
+                hotel_info.append({
+                    "name": name,
+                    "stars": stars,
+                    "room_type": room["name"],
+                    "pension": room["pension"],
+                    "availability_flag": room["availability_flag"],
+                    "availability": room["availability"],
+                    "annulation_flag": annulation,
+                    "annulation": annulation_message,
+                    "price_value": room["price_value"],
+                    "currency": room["currency"]
+                })
+        else:
+            availability = hotel_el.find_element(By.CLASS_NAME, 'text_erreur').text.strip()
             hotel_info.append({
-                "name": name,
-                "stars": stars,
-                "room_type": room["name"],
-                "pension": room["pension"],
-                "availability_flag": room["availability_flag"],
-                "availability": room["availability"],
-                "annulation_flag": annulation,
-                "annulation": annulation_message,
-                "price_value": room["price_value"],
-                "currency": room["currency"]
-            })
+                    "name": name,
+                    "stars": stars,
+                    "room_type": None,
+                    "pension": None,
+                    "availability_flag": False,
+                    "availability": availability,
+                    "annulation_flag": None,
+                    "annulation": None,
+                    "price_value": None,
+                    "currency": None
+                })
 
         return hotel_info
     except (NoSuchElementException, StaleElementReferenceException, TimeoutException):

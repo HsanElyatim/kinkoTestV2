@@ -37,7 +37,7 @@ TARGET_DESTINATIONS = os.getenv('TARGET_DESTINATIONS').split(',')
 # check_out = datetime.today().date() + timedelta(days=nb_nights) + timedelta(days=skip_days_for_test)
 
 
-def transform_load(data, table_name, engine, destination, check_in, nb_nights):
+def transform_load(data, table_name, engine, destination, check_in, nb_nights, nb_adults, nb_enfants):
     flattened_data = [item for sublist in data for item in sublist]
 
     df = pd.DataFrame(flattened_data)
@@ -45,6 +45,8 @@ def transform_load(data, table_name, engine, destination, check_in, nb_nights):
     df["nb_nights"] = nb_nights
     df['destination'] = destination
     df['check_in'] = check_in
+    df['nb_adults'] = nb_adults
+    df['nb_enfants'] = nb_enfants
     df['extracted_at'] = datetime.now()
 
     # Convert appropriate columns to datetime types
@@ -113,11 +115,23 @@ def main(args):
     destinations = args.destinations.split(',') if isinstance(args.destinations, str) else args.destinations
     check_in = datetime.strptime(args.checkIn, "%Y-%m-%d").date()
     nb_nights = args.nbNights
+    nb_adults = args.nbAdults
+    nb_enfants = args.nbEnfants
     check_out = check_in + timedelta(days=nb_nights)
 
-    # driver = init_firefox_driver()
+
+    if sources is None:
+        sources = SCRAPING_SOURCES
+    if destinations is None:
+        destinations = TARGET_DESTINATIONS
+    if nb_adults is None:
+        nb_adults = 2
+    if nb_enfants is None:
+        nb_enfants = 0
+
 
     for source_name in sources:
+
         if source_name not in SCRAPING_SOURCES:
             print(f"Unknown scraping source: {source_name}")
             continue
@@ -133,12 +147,23 @@ def main(args):
                 continue
 
             # Scrape data
-            data = scrap_function(destination, check_in, check_out)
+            data = scrap_function(destination, check_in, check_out, nb_adults, nb_enfants)
+
+            retry = 0
+            while len(data) == 0 and retry < MAX_RETRY:
+                retry += 1
+                print(f"Retry {retry}/{MAX_RETRY}")
+                data = scrap_function(destination, check_in, check_out, nb_adults, nb_enfants)
 
             # Transform and load data into the database
-            transform_load(data, f"{source_name}_src", engine, destination, check_in, nb_nights)
+            if len(data) > 0:
+                transform_load(data, f"{source_name}_src", engine, destination, check_in, nb_nights, nb_adults, nb_enfants)
+            else:
+                print("Failed!!!")
+                
+            print("###########################")
 
-    driver.close()
+    # driver.close()
 
     print("-----------------------")
     end_time = time.time()
@@ -151,10 +176,12 @@ def main(args):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Scrape travel data and store in a database.')
-    parser.add_argument('--sources', type=str, required=True, help='The source(s) for scraping, comma-separated (e.g., traveltodo,tunisiebooking,libertavoyages)')
-    parser.add_argument('--destinations', type=str, required=True, help='The destination(s) for scraping, comma-separated (e.g., Hammamet,Tunis)')
+    parser.add_argument('--sources', type=str, required=False, help='The source(s) for scraping, comma-separated (e.g., traveltodo,tunisiebooking,libertavoyages)')
+    parser.add_argument('--destinations', type=str, required=False, help='The destination(s) for scraping, comma-separated (e.g., Hammamet,Tunis)')
     parser.add_argument('--checkIn', type=str, required=True, help='Check-in date in YYYY-MM-DD format')
     parser.add_argument('--nbNights', type=int, required=True, help='Number of nights to stay')
+    parser.add_argument('--nbAdults', type=int, required=False, help='Number of adults staying')
+    parser.add_argument('--nbEnfants', type=int, required=False, help='Number of children staying')
 
     args = parser.parse_args()
     main(args)

@@ -90,21 +90,40 @@ def extract_hotel_info(driver, hotel):
         # Extract room information
         rooms_info = extract_rooms_info(hotel)
         hotel_info = []
-        for room in rooms_info:
-            if len(room) == 0 :
-                pass
+        if len(rooms_info) > 0:
+            for room in rooms_info:
+                if len(room) == 0 :
+                    pass
+                hotel_info.append({
+                    "name": name,
+                    "stars": stars,
+                    "room_type": room["name"],
+                    "pension": room["pension"],
+                    "availability_flag": room["availability_flag"],
+                    "availability": room["availability"],
+                    "annulation_flag": room["annulation_flag"],
+                    "annulation": room["annulation"],
+                    "price_value": room["price_value"],
+                    "currency": room["currency"]
+                })
+
+        else:
+            print(name)
+            availability_msgs = hotel.find_elements(By.CLASS_NAME, "displayAvailDates")
+            availability = availability_msgs[1].text.strip() if len(availability_msgs) > 1 else None
             hotel_info.append({
                 "name": name,
                 "stars": stars,
-                "room_type": room["name"],
-                "pension": room["pension"],
-                "availability_flag": room["availability_flag"],
-                "availability": room["availability"],
-                "annulation_flag": room["annulation_flag"],
-                "annulation": room["annulation"],
-                "price_value": room["price_value"],
-                "currency": room["currency"]
+                "room_type": None,
+                "pension": None,
+                "availability_flag": False,
+                "availability": availability,
+                "annulation_flag": None,
+                "annulation": None,
+                "price_value": None,
+                "currency": None
             })
+
         return hotel_info
     except NoSuchElementException:
         print("Error getting hotel info!")

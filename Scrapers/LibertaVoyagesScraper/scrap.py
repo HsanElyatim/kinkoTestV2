@@ -10,7 +10,7 @@ load_dotenv()
 URL = os.getenv('LIBERTAVOYAGES_URL')
 
 
-def scrap(destination, check_in, check_out):
+def scrap(destination, check_in, check_out, nb_adults, nb_enfants):
     driver = init_firefox_driver(headless=True)
 
     print(
@@ -21,7 +21,7 @@ def scrap(destination, check_in, check_out):
     driver.get(URL)
 
     print("Searching...")
-    search(driver, destination, check_in, check_out)
+    search(driver, destination, check_in, check_out, nb_adults, nb_enfants)
 
     print("Scrapping...")
     results = extract_all_hotels_info(driver)

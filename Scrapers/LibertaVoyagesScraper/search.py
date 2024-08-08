@@ -66,7 +66,41 @@ def select_checkin_checkout(driver, check_in, check_out, search_form):
         return False
 
 
-def search(driver, destination, check_in, check_out):
+def select_nb_adults(driver, search_form, nb_adults):
+    try:
+        driver.execute_script("arguments[0].click();", search_form.find_element(By.ID, 'btnNewGroup'))
+
+        nb_adults_selector = search_form.find_element(By.CLASS_NAME, "nbr-adults")
+        driver.execute_script("arguments[0].click();", nb_adults_selector)
+
+        options = nb_adults_selector.find_elements(By.TAG_NAME, "option")
+        for option in options:
+            if option.get_attribute("value") == nb_adults:
+                driver.execute_script("arguments[0].click();", option)
+                break
+
+        return True
+    except NoSuchElementException:
+        return False
+    
+
+def select_nb_enfants(driver, search_form, nb_enfants):
+    try:
+        nb_enfants_selector = search_form.find_element(By.CLASS_NAME, "enfants")
+        driver.execute_script("arguments[0].click();", nb_enfants_selector)
+
+        options = nb_enfants_selector.find_elements(By.TAG_NAME, "option")
+        for option in options:
+            if option.get_attribute("value") == nb_enfants:
+                driver.execute_script("arguments[0].click();", option)
+                break
+        
+        return True
+    except NoSuchElementException:
+        return False
+
+
+def search(driver, destination, check_in, check_out, nb_adults, nb_enfants):
     try:
         search_form = driver.find_element(By.ID, "search_bar")
 
@@ -74,6 +108,11 @@ def search(driver, destination, check_in, check_out):
 
         select_checkin_checkout(driver, check_in, check_out, search_form)
 
+        select_nb_adults(driver, search_form, nb_adults)
+        select_nb_enfants(driver, search_form, nb_enfants)
+        driver.execute_script("arguments[0].click();", search_form.find_element(By.ID, "btn-check"))
+
+        # driver.execute_script("arguments[0].click();", search_form.find_element(By.CLASS_NAME, "frorm-group").find_element(By.TAG_NAME, "button"))
         search_form.find_element(By.CLASS_NAME, "frorm-group").find_element(By.TAG_NAME, "button").click()
 
         return True
