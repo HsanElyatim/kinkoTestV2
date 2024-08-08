@@ -10,8 +10,8 @@ load_dotenv()
 URL = os.getenv('TUNISIEBOOKING_URL')
 
 
-def scrap(destination, check_in, check_out):
-    driver = init_firefox_driver()
+def scrap(driver, destination, check_in, check_out):
+    # driver = init_firefox_driver()
 
     print(
         f"Scraping Tunisie Booking for hotels in {destination} ({check_in.strftime('%Y-%m-%d')} --> {check_out.strftime('%Y-%m-%d')})")
@@ -27,6 +27,6 @@ def scrap(destination, check_in, check_out):
     results = extract_all_hotels_info(driver)
     logging.info(f"Processed records: {len(results)}")
 
-    driver.close()
+    # driver.close()
 
     return results

@@ -137,7 +137,8 @@ def main(args):
             # Transform and load data into the database
             transform_load(data, f"{source_name}_src", engine)
 
-
+    driver.close()
+    
     print("-----------------------")
     end_time = time.time()
     print(f"Done in {end_time - start_time}")
