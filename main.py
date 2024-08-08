@@ -37,7 +37,7 @@ TARGET_DESTINATIONS = os.getenv('TARGET_DESTINATIONS').split(',')
 # check_out = datetime.today().date() + timedelta(days=nb_nights) + timedelta(days=skip_days_for_test)
 
 
-def transform_load(data, table_name, engine):
+def transform_load(data, table_name, engine, destination, check_in, nb_nights):
     flattened_data = [item for sublist in data for item in sublist]
 
     df = pd.DataFrame(flattened_data)
@@ -136,7 +136,7 @@ def main(args):
             data = scrap_function(driver, destination, check_in, check_out)
 
             # Transform and load data into the database
-            transform_load(data, f"{source_name}_src", engine)
+            transform_load(data, f"{source_name}_src", engine, destination, check_in, nb_nights)
 
     driver.close()
 
