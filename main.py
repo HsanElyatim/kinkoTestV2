@@ -111,8 +111,8 @@ def main(args):
 
     sources = args.sources.split(',') if isinstance(args.sources, str) else args.sources
     destinations = args.destinations.split(',') if isinstance(args.destinations, str) else args.destinations
-    check_in = datetime.datetime.strptime(args.check_in, "%Y-%m-%d").date()
-    check_out = datetime.datetime.strptime(args.check_out, "%Y-%m-%d").date()
+    check_in = datetime.strptime(args.check_in, "%Y-%m-%d").date()
+    check_out = datetime.strptime(args.check_out, "%Y-%m-%d").date()
 
     driver = init_firefox_driver
 
