@@ -151,8 +151,8 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Scrape travel data and store in a database.')
     parser.add_argument('--sources', type=str, required=True, help='The source(s) for scraping, comma-separated (e.g., traveltodo,tunisiebooking,libertavoyages)')
     parser.add_argument('--destinations', type=str, required=True, help='The destination(s) for scraping, comma-separated (e.g., Hammamet,Tunis)')
-    parser.add_argument('--check_in', type=str, required=True, help='Check-in date in YYYY-MM-DD format')
-    parser.add_argument('--check_out', type=str, required=True, help='Check-out date in YYYY-MM-DD format')
+    parser.add_argument('--checkIn', type=str, required=True, help='Check-in date in YYYY-MM-DD format')
+    parser.add_argument('--checkOut', type=str, required=True, help='Check-out date in YYYY-MM-DD format')
 
     args = parser.parse_args()
     main(args)
