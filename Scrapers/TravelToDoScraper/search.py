@@ -1,5 +1,7 @@
-from selenium.common import NoSuchElementException, ElementNotInteractableException
+from selenium.common import NoSuchElementException, ElementNotInteractableException, TimeoutException
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.wait import WebDriverWait
 
 from Scrapers.dictionary import month_names_en_fr
 
@@ -35,8 +37,11 @@ def select_destination(driver, search_form, destination):
         # Click on the first suggestion in the destination list
         driver.execute_script("arguments[0].click();", destination_list[0])
 
+        return True
+
     except (NoSuchElementException, ElementNotInteractableException, IndexError):
         print("Error selecting destination!")
+        return False
 
 
 def select_date(driver, date_picker, date):
@@ -103,7 +108,8 @@ def search(driver, destination, arr_date, dep_date):
         search_form = driver.find_element(By.ID, "searchForm")
 
         # Select destination
-        select_destination(driver, search_form, destination)
+        if not select_destination(driver, search_form, destination):
+            select_destination(driver, search_form, destination)
 
         # Select arrival and departure dates
         date_pickers = driver.find_elements(By.CLASS_NAME, "pika-single")
