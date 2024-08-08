@@ -10,7 +10,7 @@ load_dotenv()
 URL = os.getenv('TRAVELTODO_URL')
 
 
-def scrap(driver, destination, check_in, check_out):
+def scrap(destination, check_in, check_out):
     """
         Scrapes Travel To Do website for hotels information based on the provided destination, check-in, and check-out dates.
 
@@ -22,7 +22,7 @@ def scrap(driver, destination, check_in, check_out):
         Returns:
             None
     """
-    # driver = init_firefox_driver()
+    driver = init_firefox_driver()
 
     print(
         f"Scraping Travel To Do for hotels in {destination} ({check_in.strftime('%Y-%m-%d')} --> {check_out.strftime('%Y-%m-%d')})")
@@ -41,6 +41,6 @@ def scrap(driver, destination, check_in, check_out):
     results = extract_all_hotels_info(driver)
     logging.info(f"Processed records: {len(results)}")
 
-    # driver.close()
+    driver.close()
 
     return results

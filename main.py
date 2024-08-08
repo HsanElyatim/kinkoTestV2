@@ -115,7 +115,7 @@ def main(args):
     nb_nights = args.nbNights
     check_out = check_in + timedelta(days=nb_nights)
 
-    driver = init_firefox_driver()
+    # driver = init_firefox_driver()
 
     for source_name in sources:
         if source_name not in SCRAPING_SOURCES:
@@ -133,7 +133,7 @@ def main(args):
                 continue
 
             # Scrape data
-            data = scrap_function(driver, destination, check_in, check_out)
+            data = scrap_function(destination, check_in, check_out)
 
             # Transform and load data into the database
             transform_load(data, f"{source_name}_src", engine, destination, check_in, nb_nights)
