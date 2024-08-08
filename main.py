@@ -90,7 +90,7 @@ def get_scrap_function(source_name):
 #         print("###########################")
 
 
-def main():
+def main(args):
     logging.info("Script started")
 
     start_time = time.time()
