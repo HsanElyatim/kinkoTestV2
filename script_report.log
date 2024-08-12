@@ -562,3 +562,13 @@
 2024-08-12 10:11:10,066 - INFO - Processed records: 5
 2024-08-12 10:11:12,810 - INFO - Script completed
 2024-08-12 10:11:12,810 - INFO - Total execution time: 339.36 seconds
+2024-08-12 11:52:59,962 - INFO - Script started
+2024-08-12 11:53:01,885 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-12 --> 2024-08-13)
+2024-08-12 11:56:01,408 - INFO - Script started
+2024-08-12 11:56:03,437 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-12 --> 2024-08-13)
+2024-08-12 11:56:48,556 - INFO - Script started
+2024-08-12 11:56:51,620 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-12 --> 2024-08-13)
+2024-08-12 11:57:53,615 - INFO - Script started
+2024-08-12 11:57:57,540 - INFO - Scraping Tunisie Booking for hotels in Hammamet (2024-08-12 --> 2024-08-13)
+2024-08-12 11:58:22,780 - INFO - Got info of 67/67 hotels
+2024-08-12 11:58:22,780 - INFO - Processed records: 67
