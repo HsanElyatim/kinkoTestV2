@@ -65,8 +65,10 @@ def select_date(driver, date_picker, date):
         driver.execute_script("arguments[0].scrollIntoView(true);", date_picker)
 
         # Find the calendar container
-        calendar_containers = date_picker.find_elements(By.CLASS_NAME, "pika-lendar")
-        title = calendar_containers[0].find_element(By.CLASS_NAME, "pika-title")
+        # calendar_containers = date_picker.find_elements(By.CLASS_NAME, "pika-lendar")
+        # title = calendar_containers[0].find_element(By.CLASS_NAME, "pika-title")
+
+        title = date_picker.find_element(By.CLASS_NAME, "pika-title")
 
         # Select the month
         month_select = title.find_element(By.CLASS_NAME, "pika-select-month")
