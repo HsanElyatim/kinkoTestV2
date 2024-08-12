@@ -76,7 +76,7 @@ def select_date(driver, date_picker, date):
         for month_to_select in months_to_select:
             if month_to_select.text == month:
                 # raise ElementNotInteractableException
-                month_to_select.click()
+                driver.execute_script("arguments[0].click();", month_to_select)
                 break
 
         # Find and click the day element
