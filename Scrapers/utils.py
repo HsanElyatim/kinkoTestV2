@@ -31,8 +31,9 @@ def init_firefox_driver(headless=True):
     firefox_options.add_argument("--disable-dev-shm-usage")  # Overcome limited resource problems
 
     # Initialize the WebDriver for Firefox
-    # geckodriver_path = "Scrapers/drivers/geckodriver.exe"
-    driver = webdriver.Firefox(options=firefox_options)
+    geckodriver_path = "/snap/bin/geckodriver"
+    service = FirefoxService(executable_path=geckodriver_path)
+    driver = webdriver.Firefox(service=service, options=firefox_options)
     driver.maximize_window()
     return driver
 
