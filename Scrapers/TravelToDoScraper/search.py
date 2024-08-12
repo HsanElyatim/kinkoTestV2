@@ -70,7 +70,8 @@ def select_date(driver, date_picker, date):
 
         # Select the month
         month_select = title.find_element(By.CLASS_NAME, "pika-select-month")
-        month_select.click()
+        driver.execute_script("arguments[0].click();", month_select)
+
         months_to_select = month_select.find_elements(By.TAG_NAME, "option")
         for month_to_select in months_to_select:
             if month_to_select.text == month:
@@ -84,7 +85,7 @@ def select_date(driver, date_picker, date):
         days_elements = calendar_body.find_elements(By.TAG_NAME, "td")
         for day_el in days_elements:
             if day_el.get_attribute("data-day") == day:
-                day_el.click()
+                driver.execute_script("arguments[0].click();", day_el)
                 break
     except (NoSuchElementException, ElementNotInteractableException):
         print("Error selecting date!")
@@ -96,7 +97,7 @@ def select_nb_adults(driver, nb_adults):
         options = nb_adults_selector.find_elements(By.TAG_NAME, 'option')
         for option in options:
             if option.get_attribute("value") == nb_adults:
-                option.click()
+                driver.execute_script("arguments[0].click();", option)
                 break
     except (NoSuchElementException, ElementNotInteractableException):
         pass
@@ -108,7 +109,7 @@ def select_nb_adults(driver, nb_enfants):
         options = nb_enfants_selector.find_elements(By.TAG_NAME, 'option')
         for option in options:
             if option.get_attribute("value") == nb_enfants:
-                option.click()
+                driver.execute_script("arguments[0].click();", option)
                 break
     except (NoSuchElementException, ElementNotInteractableException):
         pass
@@ -147,7 +148,7 @@ def search(driver, destination, arr_date, dep_date, nb_adults, nb_enfants):
 
         # Click on the search button
         search_btn = search_form.find_element(By.CLASS_NAME, "fas")
-        search_btn.click()
+        driver.execute_script("arguments[0].click();", search_btn)
         return True
     except (NoSuchElementException, ElementNotInteractableException) as e:
         print("Search Failed!")

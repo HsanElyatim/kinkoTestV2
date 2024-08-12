@@ -108,7 +108,6 @@ def extract_hotel_info(driver, hotel):
                 })
 
         else:
-            print(name)
             availability_msgs = hotel.find_elements(By.CLASS_NAME, "displayAvailDates")
             availability = availability_msgs[1].text.strip() if len(availability_msgs) > 1 else None
             hotel_info.append({

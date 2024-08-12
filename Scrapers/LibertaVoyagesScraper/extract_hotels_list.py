@@ -13,6 +13,9 @@ def extract_hotels_list(driver):
         sleep(10)
         results_count = driver.find_element(By.ID, "count_hotels").find_element(By.TAG_NAME, "b").text
         hotels_list = driver.find_element(By.ID, "load_hotels_wrapper").find_elements(By.CLASS_NAME, "hotel_div")
+        while hotels_list != results_count:
+            hotels_list = driver.find_element(By.ID, "load_hotels_wrapper").find_elements(By.CLASS_NAME, "hotel_div")
+        
         print(f">> {len(hotels_list)}/{results_count} hotel found.")
 
         return hotels_list

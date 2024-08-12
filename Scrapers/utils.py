@@ -33,6 +33,7 @@ def init_firefox_driver(headless=True):
     # Initialize the WebDriver for Firefox
     # geckodriver_path = "Scrapers/drivers/geckodriver.exe"
     driver = webdriver.Firefox(options=firefox_options)
+    driver.maximize_window()
     return driver
 
 
