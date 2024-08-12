@@ -5,6 +5,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 
 from Scrapers.dictionary import month_names_en_fr
 
+from time import sleep
 
 def select_destination(driver, search_form, destination):
     """
@@ -35,6 +36,7 @@ def select_destination(driver, search_form, destination):
         destination_list = destination_list_container.find_elements(By.CLASS_NAME, "tt-suggestion")
 
         # Click on the first suggestion in the destination list
+        # destination_list[0].click()
         driver.execute_script("arguments[0].click();", destination_list[0])
 
         return True
@@ -66,17 +68,20 @@ def select_date(driver, date_picker, date):
 
         # Find the calendar container
         calendar_containers = date_picker.find_elements(By.CLASS_NAME, "pika-lendar")
+        print(len(calendar_containers))
         title = calendar_containers[0].find_element(By.CLASS_NAME, "pika-title")
 
         # Select the month
         month_select = title.find_element(By.CLASS_NAME, "pika-select-month")
-        driver.execute_script("arguments[0].click();", month_select)
+        month_select.click()
+        # driver.execute_script("arguments[0].click();", month_select)
 
         months_to_select = month_select.find_elements(By.TAG_NAME, "option")
         for month_to_select in months_to_select:
             if month_to_select.text == month:
                 # raise ElementNotInteractableException
-                driver.execute_script("arguments[0].click();", month_to_select)
+                month_to_select.click()
+                # driver.execute_script("arguments[0].click();", month_to_select)
                 break
 
         # Find and click the day element
@@ -85,11 +90,14 @@ def select_date(driver, date_picker, date):
         days_elements = calendar_body.find_elements(By.TAG_NAME, "td")
         for day_el in days_elements:
             if day_el.get_attribute("data-day") == day:
-                driver.execute_script("arguments[0].click();", day_el)
+                day_el.click()
+                # driver.execute_script("arguments[0].click();", day_el)
                 break
-    except (NoSuchElementException, ElementNotInteractableException):
-        print("Error selecting date!")
 
+        return True
+    except (NoSuchElementException, ElementNotInteractableException, IndexError) as e:
+        print("Error selecting date!")
+        return False
 
 def select_nb_adults(driver, nb_adults):
     try:
@@ -148,7 +156,8 @@ def search(driver, destination, arr_date, dep_date, nb_adults, nb_enfants):
 
         # Click on the search button
         search_btn = search_form.find_element(By.CLASS_NAME, "fas")
-        driver.execute_script("arguments[0].click();", search_btn)
+        search_btn.click()
+        # driver.execute_script("arguments[0].click();", search_btn)
         return True
     except (NoSuchElementException, ElementNotInteractableException) as e:
         print("Search Failed!")

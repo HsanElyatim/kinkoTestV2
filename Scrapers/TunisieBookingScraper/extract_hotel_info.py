@@ -131,3 +131,4 @@ def get_hotel_info(driver, hotel_id):
     except (NoSuchElementException, StaleElementReferenceException, TimeoutException):
         print("Error getting hotel info!")
         return []
+        

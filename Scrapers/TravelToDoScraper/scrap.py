@@ -22,7 +22,7 @@ def scrap(destination, check_in, check_out, nb_adults, nb_enfants):
         Returns:
             None
     """
-    driver = init_firefox_driver()
+    driver = init_firefox_driver(headless=True)
 
     print(
         f"Scraping Travel To Do for hotels in {destination} ({check_in.strftime('%Y-%m-%d')} --> {check_out.strftime('%Y-%m-%d')})")
