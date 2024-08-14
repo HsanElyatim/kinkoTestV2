@@ -607,3 +607,722 @@
 2024-08-12 12:46:28,471 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-12 --> 2024-08-13)
 2024-08-12 12:47:35,667 - INFO - Script started
 2024-08-12 12:47:42,245 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-12 --> 2024-08-13)
+2024-08-12 13:46:37,673 - INFO - Script started
+2024-08-12 13:46:43,779 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-12 --> 2024-08-13)
+2024-08-12 14:32:37,161 - INFO - Script started
+2024-08-12 14:32:42,435 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-12 --> 2024-08-13)
+2024-08-12 14:33:25,358 - INFO - Got info of 63/63 hotels
+2024-08-12 14:33:25,358 - INFO - Processed records: 63
+2024-08-12 14:33:28,868 - INFO - Script completed
+2024-08-12 14:33:28,868 - INFO - Total execution time: 51.71 seconds
+2024-08-13 08:38:57,177 - INFO - Script started
+2024-08-13 08:39:03,112 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 08:39:57,400 - INFO - Got info of 63/63 hotels
+2024-08-13 08:39:57,400 - INFO - Processed records: 63
+2024-08-13 08:40:00,836 - INFO - Script completed
+2024-08-13 08:40:00,836 - INFO - Total execution time: 63.66 seconds
+2024-08-13 09:16:11,290 - INFO - Script started
+2024-08-13 09:16:13,732 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 09:18:20,993 - INFO - Script started
+2024-08-13 09:18:23,443 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 09:21:33,804 - INFO - Script started
+2024-08-13 09:21:35,852 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 09:25:40,285 - INFO - Script started
+2024-08-13 09:25:42,302 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 09:26:27,789 - INFO - Script started
+2024-08-13 09:26:35,277 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 09:26:42,016 - INFO - Got info of 0/0 hotels
+2024-08-13 09:26:42,017 - INFO - Processed records: 0
+2024-08-13 09:26:45,091 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 09:26:57,651 - INFO - Got info of 0/0 hotels
+2024-08-13 09:26:57,651 - INFO - Processed records: 0
+2024-08-13 09:27:00,728 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 09:27:07,954 - INFO - Got info of 0/0 hotels
+2024-08-13 09:27:07,955 - INFO - Processed records: 0
+2024-08-13 09:27:14,514 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 09:27:23,048 - INFO - Got info of 0/0 hotels
+2024-08-13 09:27:23,050 - INFO - Processed records: 0
+2024-08-13 09:27:24,727 - INFO - Script completed
+2024-08-13 09:27:24,728 - INFO - Total execution time: 56.91 seconds
+2024-08-13 09:29:12,443 - INFO - Script started
+2024-08-13 09:29:14,538 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 09:29:22,496 - INFO - Got info of 0/0 hotels
+2024-08-13 09:29:22,496 - INFO - Processed records: 0
+2024-08-13 09:29:31,187 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 09:29:41,254 - INFO - Got info of 0/0 hotels
+2024-08-13 09:29:41,255 - INFO - Processed records: 0
+2024-08-13 09:29:48,526 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 09:29:56,775 - INFO - Got info of 0/0 hotels
+2024-08-13 09:29:56,775 - INFO - Processed records: 0
+2024-08-13 09:30:00,267 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 09:30:07,695 - INFO - Got info of 0/0 hotels
+2024-08-13 09:30:07,695 - INFO - Processed records: 0
+2024-08-13 09:30:08,464 - INFO - Script completed
+2024-08-13 09:30:08,465 - INFO - Total execution time: 56.02 seconds
+2024-08-13 09:32:46,303 - INFO - Script started
+2024-08-13 09:32:48,188 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 09:32:55,692 - INFO - Got info of 0/0 hotels
+2024-08-13 09:32:55,692 - INFO - Processed records: 0
+2024-08-13 09:33:02,436 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 09:33:16,966 - INFO - Got info of 0/0 hotels
+2024-08-13 09:33:16,966 - INFO - Processed records: 0
+2024-08-13 09:33:23,422 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 09:33:32,153 - INFO - Got info of 0/0 hotels
+2024-08-13 09:33:32,154 - INFO - Processed records: 0
+2024-08-13 09:33:37,255 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 09:33:45,227 - INFO - Got info of 0/0 hotels
+2024-08-13 09:33:45,228 - INFO - Processed records: 0
+2024-08-13 09:33:46,035 - INFO - Script completed
+2024-08-13 09:33:46,035 - INFO - Total execution time: 59.73 seconds
+2024-08-13 09:37:19,653 - INFO - Script started
+2024-08-13 09:37:22,025 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 09:37:30,724 - INFO - Got info of 0/0 hotels
+2024-08-13 09:37:30,725 - INFO - Processed records: 0
+2024-08-13 09:37:43,040 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 09:37:55,138 - INFO - Got info of 0/0 hotels
+2024-08-13 09:37:55,140 - INFO - Processed records: 0
+2024-08-13 09:38:00,521 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 09:38:10,139 - INFO - Got info of 0/0 hotels
+2024-08-13 09:38:10,139 - INFO - Processed records: 0
+2024-08-13 09:38:13,349 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 09:38:21,888 - INFO - Got info of 0/0 hotels
+2024-08-13 09:38:21,889 - INFO - Processed records: 0
+2024-08-13 09:38:22,761 - INFO - Script completed
+2024-08-13 09:38:22,761 - INFO - Total execution time: 63.11 seconds
+2024-08-13 09:38:47,892 - INFO - Script started
+2024-08-13 09:38:51,709 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 09:39:57,702 - INFO - Script started
+2024-08-13 09:40:05,447 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 09:41:03,509 - INFO - Script started
+2024-08-13 09:41:06,895 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 09:42:09,923 - INFO - Script started
+2024-08-13 09:42:19,503 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 09:42:39,671 - INFO - Got info of 0/0 hotels
+2024-08-13 09:42:39,672 - INFO - Processed records: 0
+2024-08-13 09:42:43,789 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 09:42:57,407 - INFO - Got info of 0/0 hotels
+2024-08-13 09:42:57,408 - INFO - Processed records: 0
+2024-08-13 09:43:02,414 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 09:43:15,355 - INFO - Got info of 0/0 hotels
+2024-08-13 09:43:15,355 - INFO - Processed records: 0
+2024-08-13 09:43:37,437 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 09:43:51,484 - INFO - Got info of 0/0 hotels
+2024-08-13 09:43:51,484 - INFO - Processed records: 0
+2024-08-13 09:43:53,123 - INFO - Script completed
+2024-08-13 09:43:53,123 - INFO - Total execution time: 103.20 seconds
+2024-08-13 09:44:33,644 - INFO - Script started
+2024-08-13 09:44:37,392 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 09:45:56,340 - INFO - Script started
+2024-08-13 09:46:02,424 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 09:46:29,245 - INFO - Got info of 0/0 hotels
+2024-08-13 09:46:29,245 - INFO - Processed records: 0
+2024-08-13 09:46:33,057 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 09:46:56,306 - INFO - Got info of 0/0 hotels
+2024-08-13 09:46:56,307 - INFO - Processed records: 0
+2024-08-13 09:47:03,458 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 09:47:42,750 - INFO - Got info of 0/0 hotels
+2024-08-13 09:47:42,750 - INFO - Processed records: 0
+2024-08-13 09:47:49,182 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 09:48:19,005 - INFO - Got info of 0/0 hotels
+2024-08-13 09:48:19,006 - INFO - Processed records: 0
+2024-08-13 09:48:20,336 - INFO - Script completed
+2024-08-13 09:48:20,337 - INFO - Total execution time: 144.00 seconds
+2024-08-13 09:51:04,554 - INFO - Script started
+2024-08-13 09:51:06,727 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 09:51:14,389 - INFO - Got info of 0/0 hotels
+2024-08-13 09:51:14,389 - INFO - Processed records: 0
+2024-08-13 09:51:19,603 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 09:51:29,513 - INFO - Got info of 0/0 hotels
+2024-08-13 09:51:29,513 - INFO - Processed records: 0
+2024-08-13 09:51:36,349 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 09:51:48,438 - INFO - Got info of 0/0 hotels
+2024-08-13 09:51:48,439 - INFO - Processed records: 0
+2024-08-13 09:51:55,112 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 09:52:03,042 - INFO - Got info of 0/0 hotels
+2024-08-13 09:52:03,043 - INFO - Processed records: 0
+2024-08-13 09:52:04,234 - INFO - Script completed
+2024-08-13 09:52:04,234 - INFO - Total execution time: 59.68 seconds
+2024-08-13 09:52:48,037 - INFO - Script started
+2024-08-13 09:55:37,153 - INFO - Script started
+2024-08-13 09:58:30,184 - INFO - Script started
+2024-08-13 09:59:41,168 - INFO - Script started
+2024-08-13 09:59:51,296 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 10:00:01,496 - INFO - Got info of 0/0 hotels
+2024-08-13 10:00:01,497 - INFO - Processed records: 0
+2024-08-13 10:00:07,260 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 10:00:16,225 - INFO - Got info of 0/0 hotels
+2024-08-13 10:00:16,225 - INFO - Processed records: 0
+2024-08-13 10:00:23,072 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 10:00:33,710 - INFO - Got info of 0/0 hotels
+2024-08-13 10:00:33,710 - INFO - Processed records: 0
+2024-08-13 10:00:44,330 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 10:00:53,490 - INFO - Got info of 0/0 hotels
+2024-08-13 10:00:53,490 - INFO - Processed records: 0
+2024-08-13 10:00:56,148 - INFO - Script completed
+2024-08-13 10:00:56,149 - INFO - Total execution time: 74.98 seconds
+2024-08-13 10:01:37,195 - INFO - Script started
+2024-08-13 10:01:39,977 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 10:02:11,030 - INFO - Got info of 0/0 hotels
+2024-08-13 10:02:11,031 - INFO - Processed records: 0
+2024-08-13 10:02:17,560 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 10:02:37,741 - INFO - Got info of 0/0 hotels
+2024-08-13 10:02:37,741 - INFO - Processed records: 0
+2024-08-13 10:02:40,990 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 10:03:08,881 - INFO - Got info of 0/0 hotels
+2024-08-13 10:03:08,882 - INFO - Processed records: 0
+2024-08-13 10:03:15,209 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 10:03:38,640 - INFO - Got info of 0/0 hotels
+2024-08-13 10:03:38,641 - INFO - Processed records: 0
+2024-08-13 10:03:39,515 - INFO - Script completed
+2024-08-13 10:03:39,515 - INFO - Total execution time: 122.32 seconds
+2024-08-13 10:04:01,570 - INFO - Script started
+2024-08-13 10:04:55,913 - INFO - Script started
+2024-08-13 10:04:58,838 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 10:05:09,245 - INFO - Got info of 0/0 hotels
+2024-08-13 10:05:09,246 - INFO - Processed records: 0
+2024-08-13 10:05:20,300 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 10:05:29,417 - INFO - Got info of 0/0 hotels
+2024-08-13 10:05:29,418 - INFO - Processed records: 0
+2024-08-13 10:05:35,532 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 10:05:44,946 - INFO - Got info of 0/0 hotels
+2024-08-13 10:05:44,947 - INFO - Processed records: 0
+2024-08-13 10:05:54,538 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 10:07:27,484 - INFO - Script started
+2024-08-13 10:07:49,919 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 10:08:20,276 - INFO - Got info of 0/0 hotels
+2024-08-13 10:08:20,278 - INFO - Processed records: 0
+2024-08-13 10:08:31,139 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 10:08:58,920 - INFO - Got info of 0/0 hotels
+2024-08-13 10:08:58,921 - INFO - Processed records: 0
+2024-08-13 10:09:04,506 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 10:09:22,293 - INFO - Got info of 0/0 hotels
+2024-08-13 10:09:22,293 - INFO - Processed records: 0
+2024-08-13 10:09:25,623 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 10:09:46,911 - INFO - Got info of 0/0 hotels
+2024-08-13 10:09:46,911 - INFO - Processed records: 0
+2024-08-13 10:09:48,801 - INFO - Script completed
+2024-08-13 10:09:48,803 - INFO - Total execution time: 141.32 seconds
+2024-08-13 10:11:33,248 - INFO - Script started
+2024-08-13 10:11:35,984 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 10:11:51,304 - INFO - Got info of 0/0 hotels
+2024-08-13 10:11:51,304 - INFO - Processed records: 0
+2024-08-13 10:11:53,779 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 10:12:09,116 - INFO - Got info of 0/0 hotels
+2024-08-13 10:12:09,117 - INFO - Processed records: 0
+2024-08-13 10:12:11,673 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 10:12:27,050 - INFO - Got info of 0/0 hotels
+2024-08-13 10:12:27,051 - INFO - Processed records: 0
+2024-08-13 10:12:29,658 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 10:12:50,307 - INFO - Script started
+2024-08-13 10:12:52,394 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 10:13:34,406 - INFO - Script started
+2024-08-13 10:13:36,464 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 10:13:51,345 - INFO - Got info of 0/0 hotels
+2024-08-13 10:13:51,345 - INFO - Processed records: 0
+2024-08-13 10:13:53,725 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 10:14:08,733 - INFO - Got info of 0/0 hotels
+2024-08-13 10:14:08,734 - INFO - Processed records: 0
+2024-08-13 10:14:11,547 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 10:14:26,521 - INFO - Got info of 0/0 hotels
+2024-08-13 10:14:26,522 - INFO - Processed records: 0
+2024-08-13 10:14:28,945 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 10:14:45,024 - INFO - Got info of 0/0 hotels
+2024-08-13 10:14:45,025 - INFO - Processed records: 0
+2024-08-13 10:14:45,782 - INFO - Script completed
+2024-08-13 10:14:45,783 - INFO - Total execution time: 71.38 seconds
+2024-08-13 10:16:35,141 - INFO - Script started
+2024-08-13 10:16:37,303 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 10:17:29,104 - INFO - Script started
+2024-08-13 10:17:31,217 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 10:17:38,160 - INFO - Got info of 0/0 hotels
+2024-08-13 10:17:38,160 - INFO - Processed records: 0
+2024-08-13 10:17:40,713 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 10:17:47,762 - INFO - Got info of 0/0 hotels
+2024-08-13 10:17:47,762 - INFO - Processed records: 0
+2024-08-13 10:18:46,507 - INFO - Script started
+2024-08-13 10:18:48,603 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 10:18:59,652 - INFO - Got info of 0/0 hotels
+2024-08-13 10:18:59,653 - INFO - Processed records: 0
+2024-08-13 10:19:02,086 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 10:19:13,625 - INFO - Got info of 0/0 hotels
+2024-08-13 10:19:13,626 - INFO - Processed records: 0
+2024-08-13 10:19:18,046 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 10:19:31,354 - INFO - Got info of 0/0 hotels
+2024-08-13 10:19:31,355 - INFO - Processed records: 0
+2024-08-13 10:19:35,224 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 10:19:47,734 - INFO - Got info of 0/0 hotels
+2024-08-13 10:19:47,734 - INFO - Processed records: 0
+2024-08-13 10:19:48,922 - INFO - Script completed
+2024-08-13 10:19:48,922 - INFO - Total execution time: 62.41 seconds
+2024-08-13 10:23:13,195 - INFO - Script started
+2024-08-13 10:25:39,535 - INFO - Script started
+2024-08-13 11:00:27,915 - INFO - Script started
+2024-08-13 11:00:31,451 - INFO - Scraping Liberta for hotels in 'Hammamet' (2024-08-13 --> 2024-08-14)
+2024-08-13 12:01:14,651 - INFO - Script started
+2024-08-13 12:01:57,914 - INFO - Script started
+2024-08-13 12:02:52,151 - INFO - Script started
+2024-08-13 12:02:58,315 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 12:03:09,715 - INFO - Got info of 0/0 hotels
+2024-08-13 12:03:09,716 - INFO - Processed records: 0
+2024-08-13 12:03:17,694 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 12:03:44,396 - INFO - Script started
+2024-08-13 12:03:49,428 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 12:04:57,555 - INFO - Got info of 63/63 hotels
+2024-08-13 12:04:57,556 - INFO - Processed records: 63
+2024-08-13 12:05:00,584 - INFO - Script completed
+2024-08-13 12:05:00,584 - INFO - Total execution time: 76.19 seconds
+2024-08-13 11:06:08,197 - INFO - Script started
+2024-08-13 11:06:08,413 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 11:06:10,161 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 11:06:15,799 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 11:06:27,961 - INFO - Got info of 0/0 hotels
+2024-08-13 11:06:27,961 - INFO - Processed records: 0
+2024-08-13 11:06:28,660 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 11:06:30,202 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 11:06:36,330 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 11:06:49,311 - INFO - Got info of 0/0 hotels
+2024-08-13 11:06:49,311 - INFO - Processed records: 0
+2024-08-13 11:06:49,982 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 11:06:51,582 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 11:06:57,435 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 11:07:10,180 - INFO - Got info of 0/0 hotels
+2024-08-13 11:07:10,180 - INFO - Processed records: 0
+2024-08-13 11:07:10,853 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 11:07:12,569 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 12:07:13,841 - INFO - Script started
+2024-08-13 11:07:18,942 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 12:07:19,114 - INFO - Scraping Liberta for hotels in 'Hammamet' (2024-08-13 --> 2024-08-14)
+2024-08-13 12:07:43,763 - INFO - Got info of 0/0 hotels
+2024-08-13 12:07:43,763 - INFO - Processed records: 0
+2024-08-13 12:07:51,202 - INFO - Scraping Liberta for hotels in 'Hammamet' (2024-08-13 --> 2024-08-14)
+2024-08-13 11:09:02,614 - INFO - Script started
+2024-08-13 11:09:02,938 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 11:09:04,995 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 11:09:11,454 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 11:09:24,750 - INFO - Got info of 0/0 hotels
+2024-08-13 11:09:24,751 - INFO - Processed records: 0
+2024-08-13 11:09:25,595 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 11:09:27,491 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 11:09:33,608 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 12:10:46,674 - INFO - Script started
+2024-08-13 12:10:52,543 - INFO - Scraping Liberta for hotels in 'Hammamet' (2024-08-13 --> 2024-08-14)
+2024-08-13 12:14:51,771 - INFO - Script started
+2024-08-13 12:14:58,013 - INFO - Scraping Liberta for hotels in 'Hammamet' (2024-08-13 --> 2024-08-14)
+2024-08-13 12:15:51,069 - INFO - Got info of 56/66 hotels
+2024-08-13 12:15:51,069 - INFO - Processed records: 56
+2024-08-13 12:15:54,187 - INFO - Script completed
+2024-08-13 12:15:54,188 - INFO - Total execution time: 62.42 seconds
+2024-08-13 11:15:58,924 - INFO - Script started
+2024-08-13 11:15:59,142 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 11:16:26,502 - INFO - Script started
+2024-08-13 11:16:26,697 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 11:16:55,045 - INFO - Script started
+2024-08-13 11:17:26,861 - INFO - Script started
+2024-08-13 11:17:27,109 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 11:17:29,299 - INFO - Scraping Liberta for hotels in 'Hammamet' (2024-08-13 --> 2024-08-14)
+2024-08-13 11:18:25,582 - INFO - Got info of 56/66 hotels
+2024-08-13 11:18:25,582 - INFO - Processed records: 56
+2024-08-13 11:23:11,600 - INFO - Script started
+2024-08-13 11:23:11,798 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 11:23:14,275 - INFO - Scraping Liberta for hotels in 'Hammamet' (2024-08-13 --> 2024-08-14)
+2024-08-13 11:24:07,781 - INFO - Got info of 56/66 hotels
+2024-08-13 11:24:07,781 - INFO - Processed records: 56
+2024-08-13 11:24:38,505 - INFO - Script started
+2024-08-13 11:24:38,687 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 11:24:40,641 - INFO - Scraping Liberta for hotels in 'Hammamet' (2024-08-13 --> 2024-08-14)
+2024-08-13 11:25:29,439 - INFO - Got info of 56/66 hotels
+2024-08-13 11:25:29,439 - INFO - Processed records: 56
+2024-08-13 11:28:53,787 - INFO - Script started
+2024-08-13 11:28:53,956 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 11:28:55,707 - INFO - Scraping Liberta for hotels in 'Hammamet' (2024-08-13 --> 2024-08-14)
+2024-08-13 11:29:47,040 - INFO - Got info of 56/66 hotels
+2024-08-13 11:29:47,040 - INFO - Processed records: 56
+2024-08-13 11:30:36,414 - INFO - Script started
+2024-08-13 11:30:36,603 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 11:30:38,996 - INFO - Scraping Liberta for hotels in 'Hammamet' (2024-08-13 --> 2024-08-14)
+2024-08-13 11:31:32,086 - INFO - Got info of 56/66 hotels
+2024-08-13 11:31:32,086 - INFO - Processed records: 56
+2024-08-13 11:32:13,141 - INFO - Script started
+2024-08-13 11:32:13,366 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 11:32:15,537 - INFO - Scraping Liberta for hotels in 'Hammamet' (2024-08-13 --> 2024-08-14)
+2024-08-13 11:33:07,824 - INFO - Got info of 56/66 hotels
+2024-08-13 11:33:07,825 - INFO - Processed records: 56
+2024-08-13 11:33:08,701 - INFO - Script completed
+2024-08-13 11:33:08,702 - INFO - Total execution time: 55.56 seconds
+2024-08-13 11:38:21,619 - INFO - Script started
+2024-08-13 11:38:21,794 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 11:38:23,839 - INFO - Scraping Tunisie Booking for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 11:38:46,051 - INFO - Got info of 66/66 hotels
+2024-08-13 11:38:46,051 - INFO - Processed records: 66
+2024-08-13 11:38:46,743 - INFO - Script completed
+2024-08-13 11:38:46,743 - INFO - Total execution time: 25.12 seconds
+2024-08-13 12:40:37,612 - INFO - Script started
+2024-08-13 12:40:42,415 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 12:40:53,041 - INFO - Got info of 0/0 hotels
+2024-08-13 12:40:53,041 - INFO - Processed records: 0
+2024-08-13 12:41:11,327 - INFO - Script started
+2024-08-13 12:41:17,154 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 12:41:27,610 - INFO - Got info of 0/0 hotels
+2024-08-13 12:41:27,610 - INFO - Processed records: 0
+2024-08-13 12:41:36,122 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 12:42:10,782 - INFO - Script started
+2024-08-13 12:42:16,846 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 11:43:01,898 - INFO - Script started
+2024-08-13 11:43:02,089 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 11:44:01,526 - INFO - Script started
+2024-08-13 11:44:01,762 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 11:44:04,683 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 11:44:11,014 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 11:44:23,572 - INFO - Got info of 0/0 hotels
+2024-08-13 11:44:23,573 - INFO - Processed records: 0
+2024-08-13 11:44:24,353 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 11:44:25,947 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 11:44:32,278 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 11:44:44,794 - INFO - Got info of 0/0 hotels
+2024-08-13 11:44:44,794 - INFO - Processed records: 0
+2024-08-13 11:44:45,606 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 11:44:47,503 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 11:45:02,646 - INFO - Script started
+2024-08-13 11:45:02,708 - INFO - ====== WebDriver manager ======
+2024-08-13 11:45:02,768 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 11:45:02,953 - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_linux64.zip
+2024-08-13 11:45:03,075 - INFO - Driver downloading response is 200
+2024-08-13 11:45:03,998 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 11:45:04,232 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 11:45:04,350 - INFO - Driver has been saved in cache [/root/.wdm/drivers/chromedriver/linux64/114.0.5735.90]
+2024-08-13 11:57:31,081 - INFO - Script started
+2024-08-13 11:57:31,156 - INFO - ====== WebDriver manager ======
+2024-08-13 11:57:31,288 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 11:57:31,401 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 11:57:31,471 - INFO - There is no [linux64] chromedriver "127.0.6533.99" for browser google-chrome "127.0.6533" in cache
+2024-08-13 11:57:31,471 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 11:57:31,668 - INFO - WebDriver version 127.0.6533.99 selected
+2024-08-13 11:57:31,671 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.99/linux64/chromedriver-linux64.zip
+2024-08-13 11:57:31,672 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.99/linux64/chromedriver-linux64.zip
+2024-08-13 11:57:31,837 - INFO - Driver downloading response is 200
+2024-08-13 11:57:32,893 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 11:57:33,179 - INFO - Driver has been saved in cache [/root/.wdm/drivers/chromedriver/linux64/127.0.6533.99]
+2024-08-13 11:59:02,035 - INFO - Script started
+2024-08-13 11:59:02,100 - INFO - ====== WebDriver manager ======
+2024-08-13 11:59:02,233 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 11:59:02,310 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 11:59:02,383 - INFO - There is no [linux64] chromedriver "127.0.6533.99" for browser google-chrome "127.0.6533" in cache
+2024-08-13 11:59:02,384 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 11:59:02,594 - INFO - WebDriver version 127.0.6533.99 selected
+2024-08-13 11:59:02,596 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.99/linux64/chromedriver-linux64.zip
+2024-08-13 11:59:02,596 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.99/linux64/chromedriver-linux64.zip
+2024-08-13 11:59:02,706 - INFO - Driver downloading response is 200
+2024-08-13 11:59:03,822 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 11:59:04,024 - INFO - Driver has been saved in cache [/root/.wdm/drivers/chromedriver/linux64/127.0.6533.99]
+2024-08-13 11:59:04,568 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 12:00:58,494 - INFO - Script started
+2024-08-13 12:00:58,563 - INFO - ====== WebDriver manager ======
+2024-08-13 12:00:58,697 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 12:00:58,792 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 12:00:58,867 - INFO - There is no [linux64] chromedriver "127.0.6533.99" for browser google-chrome "127.0.6533" in cache
+2024-08-13 12:00:58,867 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 12:00:59,074 - INFO - WebDriver version 127.0.6533.99 selected
+2024-08-13 12:00:59,077 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.99/linux64/chromedriver-linux64.zip
+2024-08-13 12:00:59,077 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.99/linux64/chromedriver-linux64.zip
+2024-08-13 12:00:59,189 - INFO - Driver downloading response is 200
+2024-08-13 12:01:00,741 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 12:01:01,006 - INFO - Driver has been saved in cache [/root/.wdm/drivers/chromedriver/linux64/127.0.6533.99]
+2024-08-13 12:01:48,995 - INFO - Script started
+2024-08-13 12:01:49,050 - INFO - ====== WebDriver manager ======
+2024-08-13 12:01:49,146 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 12:01:49,219 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 12:01:49,295 - INFO - Driver [/root/.wdm/drivers/chromedriver/linux64/127.0.6533.99/chromedriver-linux64/chromedriver] found in cache
+2024-08-13 12:02:44,322 - INFO - Script started
+2024-08-13 12:02:44,377 - INFO - ====== WebDriver manager ======
+2024-08-13 12:02:44,466 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 12:02:44,591 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 12:02:44,669 - INFO - Driver [/root/.wdm/drivers/chromedriver/linux64/127.0.6533.99/chromedriver-linux64/chromedriver] found in cache
+2024-08-13 12:04:42,716 - INFO - Script started
+2024-08-13 12:04:42,777 - INFO - ====== WebDriver manager ======
+2024-08-13 12:04:42,873 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 12:04:42,946 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 12:04:43,016 - INFO - There is no [linux64] chromedriver "127.0.6533.99" for browser google-chrome "127.0.6533" in cache
+2024-08-13 12:04:43,016 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 12:04:43,222 - INFO - WebDriver version 127.0.6533.99 selected
+2024-08-13 12:04:43,225 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.99/linux64/chromedriver-linux64.zip
+2024-08-13 12:04:43,225 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.99/linux64/chromedriver-linux64.zip
+2024-08-13 12:04:43,356 - INFO - Driver downloading response is 200
+2024-08-13 12:04:44,502 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 12:04:44,708 - INFO - Driver has been saved in cache [/root/.wdm/drivers/chromedriver/linux64/127.0.6533.99]
+2024-08-13 12:08:57,193 - INFO - Script started
+2024-08-13 12:08:57,248 - INFO - ====== WebDriver manager ======
+2024-08-13 12:08:57,375 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 12:08:57,451 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 12:08:57,523 - INFO - There is no [linux64] chromedriver "127.0.6533.99" for browser google-chrome "127.0.6533" in cache
+2024-08-13 12:08:57,524 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 12:08:57,724 - INFO - WebDriver version 127.0.6533.99 selected
+2024-08-13 12:08:57,726 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.99/linux64/chromedriver-linux64.zip
+2024-08-13 12:08:57,727 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.99/linux64/chromedriver-linux64.zip
+2024-08-13 12:08:57,856 - INFO - Driver downloading response is 200
+2024-08-13 12:08:59,035 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 12:08:59,209 - INFO - Driver has been saved in cache [/root/.wdm/drivers/chromedriver/linux64/127.0.6533.99]
+2024-08-13 12:13:51,809 - INFO - Script started
+2024-08-13 12:13:51,888 - INFO - ====== WebDriver manager ======
+2024-08-13 12:13:51,991 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 12:13:52,083 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 12:13:52,159 - INFO - Driver [/root/.wdm/drivers/chromedriver/linux64/127.0.6533.99/chromedriver-linux64/chromedriver] found in cache
+2024-08-13 12:18:49,531 - INFO - Script started
+2024-08-13 12:18:49,602 - INFO - ====== WebDriver manager ======
+2024-08-13 12:18:49,804 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 12:18:49,999 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 12:18:50,073 - INFO - There is no [linux64] chromedriver "127.0.6533.99" for browser google-chrome "127.0.6533" in cache
+2024-08-13 12:18:50,074 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 12:18:50,293 - INFO - WebDriver version 127.0.6533.99 selected
+2024-08-13 12:18:50,296 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.99/linux64/chromedriver-linux64.zip
+2024-08-13 12:18:50,297 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.99/linux64/chromedriver-linux64.zip
+2024-08-13 12:18:50,548 - INFO - Driver downloading response is 200
+2024-08-13 12:18:51,711 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 12:18:51,933 - INFO - Driver has been saved in cache [/root/.wdm/drivers/chromedriver/linux64/127.0.6533.99]
+2024-08-13 12:20:45,218 - INFO - Script started
+2024-08-13 12:20:45,267 - INFO - ====== WebDriver manager ======
+2024-08-13 12:20:45,347 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 12:20:45,425 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 12:20:45,494 - INFO - Driver [/root/.wdm/drivers/chromedriver/linux64/127.0.6533.99/chromedriver-linux64/chromedriver] found in cache
+2024-08-13 12:26:19,330 - INFO - Script started
+2024-08-13 12:26:19,393 - INFO - ====== WebDriver manager ======
+2024-08-13 12:26:19,521 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 12:26:19,614 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 12:26:19,694 - INFO - There is no [linux64] chromedriver "127.0.6533.99" for browser google-chrome "127.0.6533" in cache
+2024-08-13 12:26:19,694 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 12:26:19,895 - INFO - WebDriver version 127.0.6533.99 selected
+2024-08-13 12:26:19,898 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.99/linux64/chromedriver-linux64.zip
+2024-08-13 12:26:19,899 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.99/linux64/chromedriver-linux64.zip
+2024-08-13 12:26:20,033 - INFO - Driver downloading response is 200
+2024-08-13 12:26:21,179 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 12:26:21,396 - INFO - Driver has been saved in cache [/root/.wdm/drivers/chromedriver/linux64/127.0.6533.99]
+2024-08-13 12:32:56,743 - INFO - Script started
+2024-08-13 12:32:56,832 - INFO - ====== WebDriver manager ======
+2024-08-13 12:32:57,242 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 12:32:57,317 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 12:32:57,394 - INFO - There is no [linux64] chromedriver "127.0.6533.99" for browser google-chrome "127.0.6533" in cache
+2024-08-13 12:32:57,394 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 12:32:57,603 - INFO - WebDriver version 127.0.6533.99 selected
+2024-08-13 12:32:57,606 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.99/linux64/chromedriver-linux64.zip
+2024-08-13 12:32:57,606 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.99/linux64/chromedriver-linux64.zip
+2024-08-13 12:32:57,736 - INFO - Driver downloading response is 200
+2024-08-13 12:32:58,875 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 12:32:59,162 - INFO - Driver has been saved in cache [/root/.wdm/drivers/chromedriver/linux64/127.0.6533.99]
+2024-08-13 12:34:30,543 - INFO - Script started
+2024-08-13 12:34:30,771 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 12:34:33,933 - INFO - Scraping Liberta for hotels in 'Hammamet' (2024-08-13 --> 2024-08-14)
+2024-08-13 12:36:18,860 - INFO - Script started
+2024-08-13 12:36:20,374 - WARNING - The chromedriver version (114.0.5735.90) detected in PATH at /usr/local/bin/chromedriver might not be compatible with the detected chrome version (127.0.6533.99); currently, chromedriver 127.0.6533.99 is recommended for chrome 127.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 12:38:12,761 - INFO - Script started
+2024-08-13 12:38:12,954 - INFO - ====== WebDriver manager ======
+2024-08-13 12:38:13,542 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 12:38:13,688 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 12:38:13,832 - INFO - There is no [linux64] chromedriver "127.0.6533.99" for browser google-chrome "127.0.6533" in cache
+2024-08-13 12:38:13,835 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 12:38:14,218 - INFO - WebDriver version 127.0.6533.99 selected
+2024-08-13 12:38:14,224 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.99/linux64/chromedriver-linux64.zip
+2024-08-13 12:38:14,224 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.99/linux64/chromedriver-linux64.zip
+2024-08-13 12:38:14,409 - INFO - Driver downloading response is 200
+2024-08-13 12:38:15,509 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 12:38:15,927 - INFO - Driver has been saved in cache [/root/.wdm/drivers/chromedriver/linux64/127.0.6533.99]
+2024-08-13 12:41:27,456 - INFO - Script started
+2024-08-13 12:41:27,674 - INFO - ====== WebDriver manager ======
+2024-08-13 12:45:20,236 - INFO - Script started
+2024-08-13 12:47:03,001 - INFO - Script started
+2024-08-13 12:58:46,074 - INFO - Script started
+2024-08-13 12:59:52,876 - INFO - Script started
+2024-08-13 12:59:52,961 - INFO - ====== WebDriver manager ======
+2024-08-13 13:00:57,467 - INFO - Script started
+2024-08-13 13:00:57,614 - INFO - ====== WebDriver manager ======
+2024-08-13 13:00:57,970 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 13:00:58,193 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 13:00:58,327 - INFO - There is no [linux64] chromedriver "127.0.6533.99" for browser google-chrome "127.0.6533" in cache
+2024-08-13 13:00:58,328 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 13:00:58,707 - INFO - WebDriver version 127.0.6533.99 selected
+2024-08-13 13:00:58,711 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.99/linux64/chromedriver-linux64.zip
+2024-08-13 13:00:58,722 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.99/linux64/chromedriver-linux64.zip
+2024-08-13 13:00:58,928 - INFO - Driver downloading response is 200
+2024-08-13 13:01:00,024 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 13:01:00,428 - INFO - Driver has been saved in cache [/root/.wdm/drivers/chromedriver/linux64/127.0.6533.99]
+2024-08-13 14:02:37,324 - INFO - Script started
+2024-08-13 14:02:37,509 - INFO - ====== WebDriver manager ======
+2024-08-13 14:02:40,972 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 14:02:41,250 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 14:02:41,317 - INFO - There is no [win64] chromedriver "127.0.6533.99" for browser google-chrome "127.0.6533" in cache
+2024-08-13 14:02:41,317 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 14:02:41,495 - INFO - WebDriver version 127.0.6533.99 selected
+2024-08-13 14:02:41,498 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.99/win32/chromedriver-win32.zip
+2024-08-13 14:02:41,498 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.99/win32/chromedriver-win32.zip
+2024-08-13 14:02:41,620 - INFO - Driver downloading response is 200
+2024-08-13 14:02:42,592 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 14:02:42,993 - INFO - Driver has been saved in cache [C:\Users\hsan_\.wdm\drivers\chromedriver\win64\127.0.6533.99]
+2024-08-13 14:02:53,870 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 14:04:42,261 - INFO - Got info of 64/64 hotels
+2024-08-13 14:04:42,262 - INFO - Processed records: 64
+2024-08-13 14:04:48,905 - INFO - Script completed
+2024-08-13 14:04:48,905 - INFO - Total execution time: 131.58 seconds
+2024-08-13 13:07:06,985 - INFO - Script started
+2024-08-13 13:07:07,046 - INFO - ====== WebDriver manager ======
+2024-08-13 13:07:07,158 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 13:07:07,240 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 13:07:07,312 - INFO - There is no [linux64] chromedriver "127.0.6533.99" for browser google-chrome "127.0.6533" in cache
+2024-08-13 13:07:07,313 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 13:07:07,548 - INFO - WebDriver version 127.0.6533.99 selected
+2024-08-13 13:07:07,550 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.99/linux64/chromedriver-linux64.zip
+2024-08-13 13:07:07,551 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.99/linux64/chromedriver-linux64.zip
+2024-08-13 13:07:07,697 - INFO - Driver downloading response is 200
+2024-08-13 13:07:08,945 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 13:07:09,197 - INFO - Driver has been saved in cache [/root/.wdm/drivers/chromedriver/linux64/127.0.6533.99]
+2024-08-13 13:08:40,506 - INFO - Script started
+2024-08-13 13:08:40,785 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 13:09:06,839 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 13:09:23,558 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 14:10:13,296 - INFO - Script started
+2024-08-13 14:10:13,411 - INFO - ====== WebDriver manager ======
+2024-08-13 14:10:15,550 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 14:10:16,659 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 14:10:16,860 - INFO - Driver [C:\Users\hsan_\.wdm\drivers\chromedriver\win64\127.0.6533.99\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-13 14:10:27,478 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 14:10:33,521 - INFO - ====== WebDriver manager ======
+2024-08-13 14:10:37,816 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 14:10:37,886 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 14:10:37,960 - INFO - Driver [C:\Users\hsan_\.wdm\drivers\chromedriver\win64\127.0.6533.99\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-13 14:10:53,599 - INFO - Got info of 0/0 hotels
+2024-08-13 14:10:53,599 - INFO - Processed records: 0
+2024-08-13 14:10:55,722 - INFO - ====== WebDriver manager ======
+2024-08-13 14:10:57,110 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 14:10:57,187 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 14:10:57,272 - INFO - Driver [C:\Users\hsan_\.wdm\drivers\chromedriver\win64\127.0.6533.99\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-13 14:10:59,390 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 14:11:06,427 - INFO - ====== WebDriver manager ======
+2024-08-13 14:11:12,542 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 14:11:12,619 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 14:11:12,685 - INFO - Driver [C:\Users\hsan_\.wdm\drivers\chromedriver\win64\127.0.6533.99\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-13 14:11:23,181 - INFO - Got info of 0/0 hotels
+2024-08-13 14:11:23,181 - INFO - Processed records: 0
+2024-08-13 14:11:25,616 - INFO - ====== WebDriver manager ======
+2024-08-13 14:11:32,263 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 14:11:32,330 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 14:11:32,411 - INFO - Driver [C:\Users\hsan_\.wdm\drivers\chromedriver\win64\127.0.6533.99\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-13 14:11:34,205 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 14:11:40,366 - INFO - ====== WebDriver manager ======
+2024-08-13 14:11:41,654 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 14:11:41,721 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 14:11:41,821 - INFO - Driver [C:\Users\hsan_\.wdm\drivers\chromedriver\win64\127.0.6533.99\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-13 14:12:07,442 - INFO - Got info of 0/0 hotels
+2024-08-13 14:12:07,442 - INFO - Processed records: 0
+2024-08-13 14:12:09,589 - INFO - ====== WebDriver manager ======
+2024-08-13 14:12:11,063 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 14:12:11,128 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 14:12:11,199 - INFO - Driver [C:\Users\hsan_\.wdm\drivers\chromedriver\win64\127.0.6533.99\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-13 14:12:13,099 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 14:12:20,387 - INFO - ====== WebDriver manager ======
+2024-08-13 14:12:22,062 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 14:12:22,126 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 14:12:22,198 - INFO - Driver [C:\Users\hsan_\.wdm\drivers\chromedriver\win64\127.0.6533.99\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-13 14:12:33,190 - INFO - Got info of 0/0 hotels
+2024-08-13 14:12:33,191 - INFO - Processed records: 0
+2024-08-13 14:12:35,325 - INFO - Script completed
+2024-08-13 14:12:35,325 - INFO - Total execution time: 142.03 seconds
+2024-08-13 14:13:01,466 - INFO - Script started
+2024-08-13 14:13:01,576 - INFO - ====== WebDriver manager ======
+2024-08-13 14:13:03,173 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 14:13:03,255 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 14:13:03,326 - INFO - Driver [C:\Users\hsan_\.wdm\drivers\chromedriver\win64\127.0.6533.99\chromedriver-win32/chromedriver.exe] found in cache
+2024-08-13 14:13:04,688 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 13:14:24,430 - INFO - Script started
+2024-08-13 13:14:24,486 - INFO - ====== WebDriver manager ======
+2024-08-13 13:14:24,670 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 13:14:24,749 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 13:14:24,826 - INFO - There is no [linux64] chromedriver "127.0.6533.99" for browser google-chrome "127.0.6533" in cache
+2024-08-13 13:14:24,826 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 13:14:25,031 - INFO - WebDriver version 127.0.6533.99 selected
+2024-08-13 13:14:25,033 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.99/linux64/chromedriver-linux64.zip
+2024-08-13 13:14:25,034 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.99/linux64/chromedriver-linux64.zip
+2024-08-13 13:14:25,168 - INFO - Driver downloading response is 200
+2024-08-13 13:14:26,333 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-13 13:14:26,530 - INFO - Driver has been saved in cache [/root/.wdm/drivers/chromedriver/linux64/127.0.6533.99]
+2024-08-13 14:15:33,677 - INFO - Script started
+2024-08-13 14:15:48,580 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 14:16:36,686 - INFO - Got info of 64/64 hotels
+2024-08-13 14:16:36,686 - INFO - Processed records: 64
+2024-08-13 14:16:40,938 - INFO - Script completed
+2024-08-13 14:16:40,938 - INFO - Total execution time: 65.30 seconds
+2024-08-13 13:17:04,588 - INFO - Script started
+2024-08-13 13:17:04,775 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 13:17:07,009 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 13:17:38,643 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 13:20:14,242 - INFO - Script started
+2024-08-13 13:20:14,515 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 13:20:18,499 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 13:22:31,192 - INFO - Script started
+2024-08-13 13:22:32,093 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 13:22:35,432 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 14:25:03,536 - INFO - Script started
+2024-08-13 14:25:16,731 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 13:26:46,075 - INFO - Script started
+2024-08-13 13:26:46,621 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 13:27:00,749 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 13:27:10,251 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 13:27:25,874 - INFO - Got info of 0/0 hotels
+2024-08-13 13:27:25,875 - INFO - Processed records: 0
+2024-08-13 13:27:29,783 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 13:27:33,264 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 13:28:00,291 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 13:28:11,185 - INFO - Got info of 0/0 hotels
+2024-08-13 13:28:11,186 - INFO - Processed records: 0
+2024-08-13 13:28:13,263 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 13:28:19,856 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 13:28:32,648 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 13:29:30,389 - INFO - Script started
+2024-08-13 13:29:30,626 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 13:29:33,690 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 13:30:10,690 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 13:31:33,756 - INFO - Script started
+2024-08-13 13:31:34,486 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 13:31:45,836 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 13:36:19,079 - INFO - Script started
+2024-08-13 13:36:19,753 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 13:36:44,635 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 13:40:57,858 - INFO - Script started
+2024-08-13 13:40:58,207 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 13:41:16,625 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 13:43:29,811 - INFO - Script started
+2024-08-13 13:43:30,464 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 13:43:35,870 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 13:45:22,075 - INFO - Script started
+2024-08-13 13:45:22,330 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 13:45:26,152 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 13:45:52,849 - INFO - Got info of 0/0 hotels
+2024-08-13 13:45:52,849 - INFO - Processed records: 0
+2024-08-13 13:45:56,712 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 13:46:00,032 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 13:49:15,414 - INFO - Script started
+2024-08-13 13:49:16,661 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 13:49:40,883 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 13:53:08,805 - INFO - Script started
+2024-08-13 13:53:09,508 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 14:53:38,659 - INFO - Script started
+2024-08-13 14:54:04,173 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 14:01:17,350 - INFO - Script started
+2024-08-13 14:01:17,795 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 14:09:31,703 - INFO - Script started
+2024-08-13 14:09:32,692 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 14:09:38,592 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 14:10:16,425 - INFO - Got info of 20/20 hotels
+2024-08-13 14:10:16,426 - INFO - Processed records: 20
+2024-08-13 14:10:18,024 - INFO - Script completed
+2024-08-13 14:10:18,024 - INFO - Total execution time: 46.32 seconds
+2024-08-13 14:15:37,995 - INFO - Script started
+2024-08-13 14:15:38,730 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 14:15:43,971 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 14:16:30,903 - INFO - Got info of 20/20 hotels
+2024-08-13 14:16:31,812 - INFO - Processed records: 20
+2024-08-13 14:16:48,553 - INFO - Script completed
+2024-08-13 14:16:48,558 - INFO - Total execution time: 70.56 seconds
+2024-08-13 14:18:48,007 - INFO - Script started
+2024-08-13 14:18:48,229 - WARNING - The geckodriver version (0.30.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (115.14.0); currently, geckodriver 0.35.0 is recommended for firefox 115.*, so it is advised to delete the driver in PATH and retry
+2024-08-13 14:19:04,063 - INFO - Scraping Travel To Do for hotels in Hammamet (2024-08-13 --> 2024-08-14)
+2024-08-13 14:21:17,355 - INFO - Got info of 20/20 hotels
+2024-08-13 14:21:17,355 - INFO - Processed records: 20
+2024-08-13 14:21:34,374 - INFO - Script completed
+2024-08-13 14:21:34,374 - INFO - Total execution time: 166.37 seconds

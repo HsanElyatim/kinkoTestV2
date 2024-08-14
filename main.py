@@ -112,23 +112,32 @@ def main(args):
     TARGET_DESTINATIONS = os.getenv('TARGET_DESTINATIONS').split(',')
 
     sources = args.sources.split(',') if isinstance(args.sources, str) else args.sources
-    destinations = args.destinations.split(',') if isinstance(args.destinations, str) else args.destinations
-    check_in = datetime.strptime(args.checkIn, "%Y-%m-%d").date()
-    nb_nights = args.nbNights
-    nb_adults = args.nbAdults
-    nb_enfants = args.nbEnfants
-    check_out = check_in + timedelta(days=nb_nights)
-
-
     if sources is None:
         sources = SCRAPING_SOURCES
+
+    destinations = args.destinations.split(',') if isinstance(args.destinations, str) else args.destinations
     if destinations is None:
         destinations = TARGET_DESTINATIONS
+
+    check_in = args.checkIn
+    if check_in is None:
+        check_in = datetime.today().date()
+    else:
+        check_in = datetime.strptime(check_in, "%Y-%m-%d").date()
+
+    nb_nights = args.nbNights
+    if nb_nights is None:
+        nb_nights = 1
+    
+    check_out = check_in + timedelta(days=nb_nights)
+
+    nb_adults = args.nbAdults
     if nb_adults is None:
         nb_adults = 2
+
+    nb_enfants = args.nbEnfants
     if nb_enfants is None:
         nb_enfants = 0
-
 
     for source_name in sources:
 
@@ -178,8 +187,8 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Scrape travel data and store in a database.')
     parser.add_argument('--sources', type=str, required=False, help='The source(s) for scraping, comma-separated (e.g., traveltodo,tunisiebooking,libertavoyages)')
     parser.add_argument('--destinations', type=str, required=False, help='The destination(s) for scraping, comma-separated (e.g., Hammamet,Tunis)')
-    parser.add_argument('--checkIn', type=str, required=True, help='Check-in date in YYYY-MM-DD format')
-    parser.add_argument('--nbNights', type=int, required=True, help='Number of nights to stay')
+    parser.add_argument('--checkIn', type=str, required=False, help='Check-in date in YYYY-MM-DD format')
+    parser.add_argument('--nbNights', type=int, required=False, help='Number of nights to stay')
     parser.add_argument('--nbAdults', type=int, required=False, help='Number of adults staying')
     parser.add_argument('--nbEnfants', type=int, required=False, help='Number of children staying')
 

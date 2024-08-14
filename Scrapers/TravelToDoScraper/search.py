@@ -1,4 +1,4 @@
-from selenium.common import NoSuchElementException, ElementNotInteractableException, TimeoutException
+from selenium.common import NoSuchElementException, ElementNotInteractableException, TimeoutException, ElementClickInterceptedException
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
@@ -68,20 +68,16 @@ def select_date(driver, date_picker, date):
 
         # Find the calendar container
         calendar_containers = date_picker.find_elements(By.CLASS_NAME, "pika-lendar")
-        print(len(calendar_containers))
         title = calendar_containers[0].find_element(By.CLASS_NAME, "pika-title")
 
         # Select the month
         month_select = title.find_element(By.CLASS_NAME, "pika-select-month")
         month_select.click()
-        # driver.execute_script("arguments[0].click();", month_select)
 
         months_to_select = month_select.find_elements(By.TAG_NAME, "option")
         for month_to_select in months_to_select:
             if month_to_select.text == month:
-                # raise ElementNotInteractableException
                 month_to_select.click()
-                # driver.execute_script("arguments[0].click();", month_to_select)
                 break
 
         # Find and click the day element
@@ -91,7 +87,6 @@ def select_date(driver, date_picker, date):
         for day_el in days_elements:
             if day_el.get_attribute("data-day") == day:
                 day_el.click()
-                # driver.execute_script("arguments[0].click();", day_el)
                 break
 
         return True
@@ -105,7 +100,7 @@ def select_nb_adults(driver, nb_adults):
         options = nb_adults_selector.find_elements(By.TAG_NAME, 'option')
         for option in options:
             if option.get_attribute("value") == nb_adults:
-                driver.execute_script("arguments[0].click();", option)
+                option.click()
                 break
     except (NoSuchElementException, ElementNotInteractableException):
         pass
@@ -156,9 +151,32 @@ def search(driver, destination, arr_date, dep_date, nb_adults, nb_enfants):
 
         # Click on the search button
         search_btn = search_form.find_element(By.CLASS_NAME, "fas")
+        # Remove a single element by its CSS selector
+        driver.execute_script("""
+            var elements = document.querySelectorAll('.nav-link');
+            elements.forEach(function(element) {
+                element.remove();
+            });
+            """)
+        
+        driver.execute_script("""
+            var elements = document.querySelectorAll('.container-fluid');
+            elements.forEach(function(element) {
+                element.remove();
+            });
+            """)
+        
+        driver.execute_script("""
+            var elements = document.querySelectorAll('.navbar');
+            elements.forEach(function(element) {
+                element.remove();
+            });
+            """)
+
         search_btn.click()
         # driver.execute_script("arguments[0].click();", search_btn)
         return True
-    except (NoSuchElementException, ElementNotInteractableException) as e:
+    except (NoSuchElementException, ElementNotInteractableException, ElementClickInterceptedException) as e:
         print("Search Failed!")
+        print(e)
         return False

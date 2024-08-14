@@ -17,6 +17,10 @@ def extract_all_hotels_info(driver):
     hotels_infos = []
 
     hotels_list = extract_hotels_list(driver)
+    if len(hotels_list) == 0:
+        print("Return hotels list is empty, retrying...")
+        driver.refresh()
+        hotels_list = extract_hotels_list(driver)
 
     for hotel in hotels_list:
         data = extract_hotel_info(driver, hotel)

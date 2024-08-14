@@ -3,12 +3,11 @@ import os
 from dotenv import load_dotenv
 
 from Scrapers.TravelToDoScraper.extract_all_hotels_info import extract_all_hotels_info
-from Scrapers.utils import init_firefox_driver
+from Scrapers.utils import init_firefox_driver, init_chrome_driver
 from Scrapers.TravelToDoScraper.search import search
 
 load_dotenv()
 URL = os.getenv('TRAVELTODO_URL')
-
 
 def scrap(destination, check_in, check_out, nb_adults, nb_enfants):
     """
@@ -34,8 +33,9 @@ def scrap(destination, check_in, check_out, nb_adults, nb_enfants):
     print("Searching...")
     if not search(driver, destination, check_in, check_out, nb_adults, nb_enfants):
         driver.close()
-        driver = init_firefox_driver()
+        driver = init_firefox_driver(headless=True)
         driver.get(URL)
+        search(driver, destination, check_in, check_out, nb_adults, nb_enfants)
 
     print("Scrapping...")
     results = extract_all_hotels_info(driver)
